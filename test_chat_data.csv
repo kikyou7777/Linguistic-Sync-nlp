@@ -1,0 +1,1478 @@
+chat_id,channel_identifier,condition,message,sender_id,receiver_id,session_time,segment
+GSL_G.2_main_1,32326,control,Hello,661074,90887,0.0,early
+GSL_G.2_main_1,32327,control,Hi,694133,90684,0.018283333333333300,early
+GSL_G.2_main_1,32328,control,Hi!,90684,694133,0.0919,early
+GSL_G.2_main_1,32329,control,Hi :),696373,90887,0.11923333333333300,early
+GSL_G.2_main_1,32330,control,hi!,594825,696373,0.14626666666666700,early
+GSL_G.2_main_1,32331,control,Wassup,661074,976819,0.17906666666666700,early
+GSL_G.2_main_1,32332,control,Hi,464297,694133,0.23676666666666700,early
+GSL_G.2_main_1,32333,control,hi!,696373,594825,0.24616666666666700,early
+GSL_G.2_main_1,32334,control,hi!,594825,976819,0.25345,early
+GSL_G.2_main_1,32335,control,how are you?,696373,594825,0.35473333333333300,early
+GSL_G.2_main_1,32336,control,Why are you doing this study :) ?,694133,90684,0.36315,early
+GSL_G.2_main_1,32337,control,Hi :),90887,696373,0.39655,early
+GSL_G.2_main_1,32338,control,hii what is your major?,976819,464297,0.4889,early
+GSL_G.2_main_1,32339,control,To get my psych credits lol,90684,694133,0.5029333333333330,early
+GSL_G.2_main_1,32340,control,"pretty good, how about you?",594825,696373,0.5203333333333330,early
+GSL_G.2_main_1,32341,control,I like your avatar,551759,464297,0.5523,early
+GSL_G.2_main_1,32342,control,Hiiii :),90887,661074,0.5677666666666670,early
+GSL_G.2_main_1,32343,control,how are you?,696373,90887,0.5855833333333330,early
+GSL_G.2_main_1,32344,control,hi!,594825,90684,0.6261,early
+GSL_G.2_main_1,32345,control,This is the last one that I need to get to 6,90684,694133,0.6593166666666670,early
+GSL_G.2_main_1,32346,control,I want to do public policy,464297,976819,0.6679,early
+GSL_G.2_main_1,32347,control,Ha me too,694133,90684,0.6902,early
+GSL_G.2_main_1,32348,control,Hi :),90887,504005,0.7029333333333330,early
+GSL_G.2_main_1,32349,control,hi!,594825,661074,0.7056,early
+GSL_G.2_main_1,32350,control,what about you!,464297,976819,0.7262666666666670,early
+GSL_G.2_main_1,32351,control,how are you,661074,90887,0.7468833333333330,early
+GSL_G.2_main_1,32352,control,h!,594825,464297,0.7708666666666670,early
+GSL_G.2_main_1,32353,control,i'm doing alright can't complain,696373,594825,0.8189166666666670,early
+GSL_G.2_main_1,32354,control,helllo~,504005,90887,0.8425166666666670,early
+GSL_G.2_main_1,32355,control,heyyy!,661074,594825,0.8599833333333330,early
+GSL_G.2_main_1,32356,control,hi!,464297,594825,0.8609833333333330,early
+GSL_G.2_main_1,32357,control,heyy how are you doing??,976819,661074,0.8678333333333330,early
+GSL_G.2_main_1,32358,control,I still need 1.5 rip,694133,90684,0.8736333333333330,early
+GSL_G.2_main_1,32359,control,what is your major,464297,594825,0.9074333333333330,early
+GSL_G.2_main_1,32360,control,I'm good what about you?,90887,696373,0.9153666666666670,early
+GSL_G.2_main_1,32361,control,how are you?,504005,90887,0.9220833333333330,early
+GSL_G.2_main_1,32362,control,I was low key stressed that I wouldn't get them in time,90684,694133,0.95575,early
+GSL_G.2_main_1,32363,control,thats good to hear,594825,696373,1.0535833333333300,early
+GSL_G.2_main_1,32364,control,thanks,464297,551759,1.1070166666666700,early
+GSL_G.2_main_1,32365,control,i'm alright can't complain,696373,90887,1.1082166666666700,early
+GSL_G.2_main_1,32366,control,I'm good what about you?,90887,504005,1.12265,early
+GSL_G.2_main_1,32367,control,"i'm good, what about you twin?",661074,976819,1.131,early
+GSL_G.2_main_1,32368,control,It was so hard to find studies,90684,694133,1.1714833333333300,early
+GSL_G.2_main_1,32369,control,I should have been more stressed,694133,90684,1.1891333333333300,early
+GSL_G.2_main_1,32370,control,Hi!,90684,594825,1.2315166666666700,early
+GSL_G.2_main_1,32371,control,hahhhh,90887,696373,1.2389833333333300,early
+GSL_G.2_main_1,32372,control,how's it going?,594825,661074,1.2545666666666700,early
+GSL_G.2_main_1,32373,control,What is your major?,464297,551759,1.2815833333333300,early
+GSL_G.2_main_1,32374,control,how are you doing today,90684,594825,1.2995666666666700,early
+GSL_G.2_main_1,32375,control,oh cool! I'm in the engineering school,976819,464297,1.3023666666666700,early
+GSL_G.2_main_1,32376,control,What did you have for lunch?,90887,696373,1.3575666666666700,early
+GSL_G.2_main_1,32377,control,haha,90684,694133,1.3990166666666700,early
+GSL_G.2_main_1,32378,control,Youth and social innovation,551759,464297,1.4244666666666700,early
+GSL_G.2_main_1,32379,control,environmental science,594825,464297,1.4332833333333300,early
+GSL_G.2_main_1,32380,control,Wbu,551759,464297,1.4555833333333300,early
+GSL_G.2_main_1,32381,control,how about you?,594825,464297,1.49155,early
+GSL_G.2_main_1,32382,control,I'm doing fine,504005,90887,1.5154333333333300,early
+GSL_G.2_main_1,32383,control,are you excited for thanksgiving break,90684,694133,1.51945,early
+GSL_G.2_main_1,32384,control,I'm good what about you?,90887,661074,1.5345833333333300,early
+GSL_G.2_main_1,32385,control,Super!,694133,90684,1.6040166666666700,early
+GSL_G.2_main_1,32386,control,I was thinking either systems or mechanical,976819,464297,1.6588333333333300,early
+GSL_G.2_main_1,32387,control,"it's going definitely, how about you?",661074,594825,1.6609166666666700,early
+GSL_G.2_main_1,32388,control,"not too bad, how about you?",594825,90684,1.7147666666666700,early
+GSL_G.2_main_1,32389,control,Me too! I can't wait for non dining hall food,90684,694133,1.8250666666666700,early
+GSL_G.2_main_1,32390,control,Cool! what year are you?,464297,976819,1.8505166666666700,early
+GSL_G.2_main_1,32391,control,I like your avatar,551759,696373,1.8642333333333300,early
+GSL_G.2_main_1,32392,control,i had rice and chicken,696373,90887,1.86685,early
+GSL_G.2_main_1,32393,control,i'm hanging in there doing all right,661074,90887,1.88515,early
+GSL_G.2_main_1,32394,control,Cool,464297,594825,1.9649166666666700,early
+GSL_G.2_main_1,32395,control,I'm good!,90684,594825,1.9737833333333300,early
+GSL_G.2_main_1,32396,control,im doing well haha,976819,661074,2.0017666666666700,early
+GSL_G.2_main_1,32397,control,I want to do public policy,464297,594825,2.0192833333333300,early
+GSL_G.2_main_1,32398,control,what about you?,696373,90887,2.0263833333333300,early
+GSL_G.2_main_1,32399,control,i feel the same way,594825,661074,2.0336833333333300,early
+GSL_G.2_main_1,32400,control,heyy!,661074,464297,2.036583333333330,early
+GSL_G.2_main_1,32401,control,what did you have for lunch :),90887,504005,2.048566666666670,early
+GSL_G.2_main_1,32402,control,Real. Are you seeing family,694133,90684,2.097183333333330,early
+GSL_G.2_main_1,32403,control,very ready for break,594825,661074,2.1012333333333300,early
+GSL_G.2_main_1,32404,control,Oh cool,464297,551759,2.1153166666666700,early
+GSL_G.2_main_1,32405,control,where are you from??,976819,661074,2.13835,early
+GSL_G.2_main_1,32406,control,I want to do public policy,464297,551759,2.17015,early
+GSL_G.2_main_1,32407,control,What year are you?,464297,551759,2.231,early
+GSL_G.2_main_1,32408,control,this is the last psych credit i need to complete my 6 so i'm super happy about that,90684,594825,2.255116666666670,early
+GSL_G.2_main_1,32409,control,I did not have any but I will do after this,90887,696373,2.3072333333333300,early
+GSL_G.2_main_1,32410,control,I'm a first year,976819,464297,2.3075,early
+GSL_G.2_main_1,32411,control,thanks i like yours too :),696373,551759,2.31085,early
+GSL_G.2_main_1,32412,control,hby,976819,464297,2.3369333333333300,early
+GSL_G.2_main_1,32413,control,Heyy!,464297,661074,2.34215,early
+GSL_G.2_main_1,32414,control,First,551759,464297,2.3475166666666700,early
+GSL_G.2_main_1,32415,control,yes,90684,694133,2.385,early
+GSL_G.2_main_1,32416,control,haha same!,594825,90684,2.424166666666670,early
+GSL_G.2_main_1,32417,control,Is it the food truck?,90887,696373,2.4276833333333300,early
+GSL_G.2_main_1,32418,control,What is your major?,464297,661074,2.44775,early
+GSL_G.2_main_1,32419,control,what about you,90684,694133,2.5042833333333300,early
+GSL_G.2_main_1,32420,control,Cool,464297,551759,2.5220166666666700,early
+GSL_G.2_main_1,32421,control,I wanna do educational policy,551759,464297,2.5324666666666700,early
+GSL_G.2_main_1,32422,control,that's wassup. I'm from central virginia so like Lynchburg area wbu?,661074,976819,2.548966666666670,early
+GSL_G.2_main_1,32423,control,are you ready for break?,594825,90684,2.56695,early
+GSL_G.2_main_1,32424,control,"I haven't had lunch yet lol, I'll get lunch after this",504005,90887,2.609366666666670,early
+GSL_G.2_main_1,32425,control,yessss,90684,594825,2.617383333333330,early
+GSL_G.2_main_1,32426,control,so ready,90684,594825,2.64995,early
+GSL_G.2_main_1,32427,control,hbu?,504005,90887,2.67885,early
+GSL_G.2_main_1,32428,control,hii what year are you??,976819,594825,2.6832,early
+GSL_G.2_main_1,32429,control,no i went back to my place and made lunch,696373,90887,2.7207666666666700,early
+GSL_G.2_main_1,32430,control,Nope I'm going on a trip with some friends,694133,90684,2.769616666666670,early
+GSL_G.2_main_1,32431,control,Yesss,90887,661074,2.8743666666666700,early
+GSL_G.2_main_1,32432,control,I'm a first year as well,464297,976819,2.8782833333333300,early
+GSL_G.2_main_1,32433,control,what about you,90684,594825,2.9138333333333300,early
+GSL_G.2_main_1,32434,control,I love your avatar,90887,661074,2.9614833333333300,early
+GSL_G.2_main_1,32435,control,how was your day?,696373,551759,2.970683333333330,early
+GSL_G.2_main_1,32436,control,What’s your favorite place to eat on the corner,551759,696373,2.9829,early
+GSL_G.2_main_1,32437,control,it's cute,90887,661074,3.006666666666670,early
+GSL_G.2_main_1,32438,control,i cant wait for homecooked meals lol,594825,90684,3.0078,early
+GSL_G.2_main_1,32439,control,I can't wait to go home on friday i've been looking forward to this for so long,661074,594825,3.021533333333330,early
+GSL_G.2_main_1,32440,control,fun! where are you going,90684,694133,3.108433333333330,early
+GSL_G.2_main_1,32441,control,ohh cool im from Arlington like right outside DC,976819,661074,3.133016666666670,early
+GSL_G.2_main_1,32442,control,oh thats really cool,594825,464297,3.1820833333333300,early
+GSL_G.2_main_1,32443,control,sameee,90684,594825,3.2083666666666700,early
+GSL_G.2_main_1,32444,control,My day is pretty solid,551759,696373,3.2149666666666700,early
+GSL_G.2_main_1,32445,control,my favorite place is asado,696373,551759,3.2160166666666700,early
+GSL_G.2_main_1,32446,control,in batten?,594825,464297,3.22115,early
+GSL_G.2_main_1,32447,control,Oh that's nice,90887,696373,3.2828833333333300,early
+GSL_G.2_main_1,32448,control,New York!,694133,90684,3.2987166666666700,early
+GSL_G.2_main_1,32449,control,what year are you?,976819,661074,3.3220833333333300,early
+GSL_G.2_main_1,32450,control,How’s your day,551759,696373,3.351766666666670,early
+GSL_G.2_main_1,32451,control,Asado is delicious,551759,696373,3.4235,early
+GSL_G.2_main_1,32452,control,Do you have classes in the afternoon?,90887,696373,3.4776166666666700,early
+GSL_G.2_main_1,32453,control,Hopefully,464297,594825,3.479966666666670,early
+GSL_G.2_main_1,32454,control,yesss me too,594825,661074,3.497533333333330,early
+GSL_G.2_main_1,32455,control,hello~,504005,551759,3.5196833333333300,early
+GSL_G.2_main_1,32456,control,my day has been alright,696373,551759,3.5637666666666700,early
+GSL_G.2_main_1,32457,control,little racoon it reminds me of rocket but I think you got the best one who doesn't love pandas,661074,90887,3.580966666666670,early
+GSL_G.2_main_1,32458,control,are you from va?,594825,661074,3.5935,early
+GSL_G.2_main_1,32459,control,what is your favorite thanksgiving food,90684,594825,3.5993166666666700,early
+GSL_G.2_main_1,32460,control,Me toooo,90887,504005,3.6101666666666700,early
+GSL_G.2_main_1,32461,control,Hey,551759,504005,3.6185833333333300,early
+GSL_G.2_main_1,32462,control,I like your avatar,551759,504005,3.7015,early
+GSL_G.2_main_1,32463,control,yess wbu,661074,594825,3.7240333333333300,early
+GSL_G.2_main_1,32464,control,what's your favorite place to eat on the corner,696373,551759,3.776116666666670,early
+GSL_G.2_main_1,32465,control,That's so cool!,90684,694133,3.7807333333333300,early
+GSL_G.2_main_1,32466,control,ohh nice where are you living?,976819,464297,3.79555,early
+GSL_G.2_main_1,32467,control,haha thanks,504005,551759,3.8398333333333300,early
+GSL_G.2_main_1,32468,control,What year are you?,464297,594825,3.9410666666666700,early
+GSL_G.2_main_1,32469,control,how's everything going,504005,551759,3.9461333333333300,early
+GSL_G.2_main_1,32470,control,are you going to the city or somewhere else,90684,694133,3.9687833333333300,early
+GSL_G.2_main_1,32471,control,im a vegetarian so we always have stuffed shell pasta which is probably my favorite,594825,90684,4.05115,early
+GSL_G.2_main_1,32472,control,i'm a first year hbu,661074,976819,4.067866666666670,early
+GSL_G.2_main_1,32473,control,hii,976819,90684,4.1036166666666700,early
+GSL_G.2_main_1,32474,control,do you have class in the afternoon?,90887,504005,4.104683333333330,early
+GSL_G.2_main_1,32475,control,or cranberry sauce,594825,90684,4.104783333333330,early
+GSL_G.2_main_1,32476,control,Just the city,694133,90684,4.169216666666670,early
+GSL_G.2_main_1,32477,control,psych wbu,661074,464297,4.17555,early
+GSL_G.2_main_1,32478,control,Probably Asado too,551759,696373,4.2275833333333300,early
+GSL_G.2_main_1,32479,control,ya im from arlington,594825,661074,4.2423,early
+GSL_G.2_main_1,32480,control,you?,594825,661074,4.267716666666670,early
+GSL_G.2_main_1,32481,control,how are you doing?,976819,90684,4.282283333333330,early
+GSL_G.2_main_1,32482,control,yeah I have 2 but i'm going to skip one of them so I can do homework,696373,90887,4.31225,early
+GSL_G.2_main_1,32483,control,heyy!,661074,90684,4.3128,early
+GSL_G.2_main_1,32484,control,I also love the boba place,551759,696373,4.31895,early
+GSL_G.2_main_1,32485,control,"yep, i only have one class today",504005,90887,4.331083333333330,early
+GSL_G.2_main_1,32486,control,what about you,696373,90887,4.387033333333330,early
+GSL_G.2_main_1,32487,control,lynchburg,661074,594825,4.425516666666670,early
+GSL_G.2_main_1,32488,control,hbu?,504005,90887,4.428616666666670,early
+GSL_G.2_main_1,32489,control,im a first year,594825,464297,4.459883333333330,early
+GSL_G.2_main_1,32490,control,Have you been?,694133,90684,4.466966666666670,early
+GSL_G.2_main_1,32491,control,that sounds so good,90684,594825,4.471966666666670,early
+GSL_G.2_main_1,32492,control,It’s going alright,551759,504005,4.500066666666670,early
+GSL_G.2_main_1,32493,control,Wbu,551759,504005,4.5158,early
+GSL_G.2_main_1,32494,control,what about you?,594825,464297,4.551366666666670,early
+GSL_G.2_main_1,32495,control,yeah me too,976819,661074,4.57225,early
+GSL_G.2_main_1,32496,control,hi!,594825,694133,4.61685,early
+GSL_G.2_main_1,32497,control,you're the second person i've met from arlington on here,661074,594825,4.686183333333330,early
+GSL_G.2_main_1,32498,control,what dorm are you in?,976819,661074,4.724716666666670,early
+GSL_G.2_main_1,32499,control,Ohhh thank you :D,90887,661074,4.742766666666670,early
+GSL_G.2_main_1,32500,control,do you have a favorite?,594825,90684,4.8388333333333300,early
+GSL_G.2_main_1,32501,control,balz wbu,661074,976819,4.89605,early
+GSL_G.2_main_1,32502,control,oh no way,594825,661074,4.942183333333330,early
+GSL_G.2_main_1,32503,control,"same same, I'm waiting for next week to arriveeee",504005,551759,4.943833333333330,early
+GSL_G.2_main_1,32504,control,can't do this anymore lol,504005,551759,5.070833333333330,early
+GSL_G.2_main_1,32505,control,hii what year are you?,976819,694133,5.077833333333330,early
+GSL_G.2_main_1,32506,control,thats crazy,594825,661074,5.086833333333330,early
+GSL_G.2_main_1,32507,control,"Are you talking about Moge Tee? if so, i love that place too",696373,551759,5.12615,early
+GSL_G.2_main_1,32508,control,Are you going home for thanksgiving?,551759,504005,5.1970833333333300,early
+GSL_G.2_main_1,32509,control,"i really love to bake so i'm most excited for desserts, pumpkin pie is my favorite",90684,594825,5.2321,early
+GSL_G.2_main_1,32510,control,lot of arlington and dc people i see,661074,594825,5.285616666666670,early
+GSL_G.2_main_1,32511,control,What year are you in,90887,661074,5.329483333333330,early
+GSL_G.2_main_1,32512,control,im a first year!,594825,976819,5.337583333333330,early
+GSL_G.2_main_1,32513,control,yeah it is crazt,661074,594825,5.366466666666670,early
+GSL_G.2_main_1,32514,control,what about you?,594825,976819,5.3906,early
+GSL_G.2_main_1,32515,control,oh fun I'm in page,976819,661074,5.393833333333330,early
+GSL_G.2_main_1,32516,control,Yep,504005,551759,5.400183333333330,early
+GSL_G.2_main_1,32517,control,crazy,661074,594825,5.403016666666670,early
+GSL_G.2_main_1,32518,control,Kellogg!,464297,976819,5.4173,early
+GSL_G.2_main_1,32519,control,hbu?,504005,551759,5.451366666666670,early
+GSL_G.2_main_1,32520,control,What about you?,464297,976819,5.4719,early
+GSL_G.2_main_1,32521,control,i have not been to the city but i've always wanted to go,90684,694133,5.5484,early
+GSL_G.2_main_1,32522,control,Yessss that’s what it’s called,551759,696373,5.576833333333330,early
+GSL_G.2_main_1,32523,control,first year wbu,661074,90887,5.594283333333330,early
+GSL_G.2_main_1,32524,control,oooh awesome,594825,90684,5.619483333333330,early
+GSL_G.2_main_1,32525,control,It’s so good,551759,696373,5.620183333333330,early
+GSL_G.2_main_1,32526,control,Oh same,464297,594825,5.62045,early
+GSL_G.2_main_1,32527,control,Where are you living?,464297,594825,5.6761,early
+GSL_G.2_main_1,32528,control,Yeah I’m actually leaving Friday,551759,504005,5.758166666666670,early
+GSL_G.2_main_1,32529,control,Cool,464297,661074,5.8231,early
+GSL_G.2_main_1,32530,control,my older brother goes to west point though so i've been to new york state a few times,90684,694133,5.8298,early
+GSL_G.2_main_1,32531,control,i know a lot of people who dont like pumpkin pie but i dont get it,594825,90684,5.858966666666670,early
+GSL_G.2_main_1,32532,control,I want to do public policy,464297,661074,5.887166666666670,early
+GSL_G.2_main_1,32533,control,I do not have classes this afternoon but I have tons of homework to do,90887,696373,5.953883333333330,early
+GSL_G.2_main_1,32534,control,what do you want to major in?,976819,661074,5.9635,early
+GSL_G.2_main_1,32535,control,yeah definitely,594825,661074,6.011833333333330,early
+GSL_G.2_main_1,32536,control,i was in page a lot during summer sessions.,661074,976819,6.11215,early
+GSL_G.2_main_1,32537,control,I've not started yet :(,90887,696373,6.125933333333330,early
+GSL_G.2_main_1,32538,control,i know its so amazing,90684,594825,6.149066666666670,early
+GSL_G.2_main_1,32539,control,Yeah my favorite thing to get there is the mango slush w/cheese foam,696373,551759,6.180066666666670,early
+GSL_G.2_main_1,32540,control,nova kids are taking over,594825,661074,6.2129,early
+GSL_G.2_main_1,32541,control,oh cool so am I!,976819,594825,6.3270333333333300,early
+GSL_G.2_main_1,32542,control,i think I wanna do psychology,661074,976819,6.33565,early
+GSL_G.2_main_1,32543,control,Ooh I haven’t gotten that,551759,696373,6.349516666666670,early
+GSL_G.2_main_1,32544,control,especially the one from costco,594825,90684,6.415766666666670,early
+GSL_G.2_main_1,32545,control,"That's nice, you'll get to enjoy a whole week off",504005,551759,6.420216666666670,early
+GSL_G.2_main_1,32546,control,I usually get the one with fresh fruit and oolong tea,551759,696373,6.517066666666670,early
+GSL_G.2_main_1,32547,control,awesome!,594825,976819,6.5469,early
+GSL_G.2_main_1,32548,control,yes that one is so good,90684,594825,6.5658666666666700,early
+GSL_G.2_main_1,32549,control,do you like uva?,976819,594825,6.575466666666670,early
+GSL_G.2_main_1,32550,control,I do not have classes this afternoon but I have much work to do...,90887,504005,6.58115,early
+GSL_G.2_main_1,32551,control,i think so,594825,976819,6.67,early
+GSL_G.2_main_1,32552,control,I can’t remember what it’s called,551759,696373,6.6775,early
+GSL_G.2_main_1,32553,control,me too,90887,661074,6.707316666666670,early
+GSL_G.2_main_1,32554,control,How is it?,694133,90684,6.713933333333330,early
+GSL_G.2_main_1,32555,control,i usually make mine from scratch but its a pretty long process,90684,594825,6.802583333333330,early
+GSL_G.2_main_1,32556,control,ohh cool,976819,661074,6.816366666666670,early
+GSL_G.2_main_1,32557,control,its been a weird adjustment but i like the school!,594825,976819,6.901383333333330,early
+GSL_G.2_main_1,32558,control,Yeah fr,551759,504005,6.90505,early
+GSL_G.2_main_1,32559,control,hi!,90684,661074,6.913866666666670,early
+GSL_G.2_main_1,32560,control,"I mean there's still plenty of time to get homework done, but I wouldn't blame you if you didn't do it :)",696373,90887,6.9225,early
+GSL_G.2_main_1,32561,control,how are you doing,90684,661074,6.956083333333330,early
+GSL_G.2_main_1,32562,control,"yeah I can tell there is so many nova people, I feel like my part of virginia just doesn't exist",661074,594825,6.983816666666670,early
+GSL_G.2_main_1,32563,control,What’s your favorite class you’re in,551759,504005,7.02915,early
+GSL_G.2_main_1,32564,control,"i see, you got this!",504005,90887,7.059116666666670,early
+GSL_G.2_main_1,32565,control,ohhh true,594825,90684,7.077616666666670,early
+GSL_G.2_main_1,32566,control,what classes did you take over the summer?,976819,661074,7.07925,early
+GSL_G.2_main_1,32567,control,i'm good what about you,661074,90684,7.215166666666670,early
+GSL_G.2_main_1,32568,control,but usually the homemade ones are the best,594825,90684,7.23845,early
+GSL_G.2_main_1,32569,control,just survive this week!,504005,90887,7.2571,early
+GSL_G.2_main_1,32570,control,ooh that's sounds good,696373,551759,7.28705,early
+GSL_G.2_main_1,32571,control,what major do you want to study?,90887,661074,7.306783333333330,early
+GSL_G.2_main_1,32572,control,What’s your favorite flavor of ice cream,551759,976819,7.326733333333330,early
+GSL_G.2_main_1,32573,control,are there any people from your high school here?,594825,661074,7.651083333333330,early
+GSL_G.2_main_1,32574,control,haha yeah its definitely a big change from hs,976819,594825,7.661316666666670,early
+GSL_G.2_main_1,32575,control,that's the first time i've heard of someone wanting to do public policy that's really cool,661074,464297,7.727366666666670,early
+GSL_G.2_main_1,32576,control,how has the semester been for you,696373,551759,7.73715,early
+GSL_G.2_main_1,32577,control,shannon wbu?,594825,464297,7.804333333333330,early
+GSL_G.2_main_1,32578,control,What’s your favorite restaurant on the corner,551759,594825,7.836983333333330,early
+GSL_G.2_main_1,32579,control,Where are you living?,464297,551759,7.90125,early
+GSL_G.2_main_1,32580,control,I really like abnormal psych rn even though the tests are hard,504005,551759,7.9366666666666700,early
+GSL_G.2_main_1,32581,control,yeah for sure,594825,976819,7.9938666666666700,early
+GSL_G.2_main_1,32582,control,Oh cool,464297,594825,8.043466666666670,early
+GSL_G.2_main_1,32583,control,what were/are you involved in?,976819,594825,8.068,early
+GSL_G.2_main_1,32584,control,what psych class are you in?,504005,551759,8.07015,early
+GSL_G.2_main_1,32585,control,I didn't take any classes over the summer I was just here because I lived really close,661074,976819,8.10695,early
+GSL_G.2_main_1,32586,control,I'm in Kellogg,464297,594825,8.11135,early
+GSL_G.2_main_1,32587,control,What’s your favorite movie you’ve seen this school year,551759,90887,8.160616666666670,early
+GSL_G.2_main_1,32588,control,Yeahh! Thank you for the kind words,90887,504005,8.180883333333330,early
+GSL_G.2_main_1,32589,control,"its really pretty up there because its more upstate, when i went for the first time i was pretty surprised because i only associated new york with nyc and i didn't realize that there was a lot of natural beauty and not just city",90684,694133,8.347083333333330,early
+GSL_G.2_main_1,32590,control,what psych class are you in?,504005,90887,8.352966666666670,early
+GSL_G.2_main_1,32591,control,Who’s your number one most listened to artist,551759,694133,8.3885,early
+GSL_G.2_main_1,32592,control,1 person literally only 2 people got admitted and we're the only two here,661074,594825,8.451516666666670,early
+GSL_G.2_main_1,32593,control,im in a chamber orchestra group and im in this thing called camp kesem,594825,976819,8.459266666666670,early
+GSL_G.2_main_1,32594,control,psychology wbu,661074,90887,8.5831,early
+GSL_G.2_main_1,32595,control,Thanks yeah I want to do education policy but have to apply in,464297,661074,8.667166666666670,early
+GSL_G.2_main_1,32596,control,and a few other things but i think ill have to drop some next semester lol,594825,976819,8.7088,early
+GSL_G.2_main_1,32597,control,What’s your favorite library at uva,551759,661074,8.735666666666670,early
+GSL_G.2_main_1,32598,control,hmm I'd say either mint chocolate chip or cookies and cream but for ben and jerrys I always get half baked,976819,551759,8.749433333333330,early
+GSL_G.2_main_1,32599,control,wbu?,594825,976819,8.756983333333330,early
+GSL_G.2_main_1,32600,control,hbu,976819,551759,8.80655,early
+GSL_G.2_main_1,32601,control,Thanks for that :D,90887,696373,8.823316666666670,early
+GSL_G.2_main_1,32602,control,yes i make the dough from scratch and then i actually make my own sweetened condensed milk to put in it so it tastes amazing,90684,594825,8.850133333333330,early
+GSL_G.2_main_1,32603,control,Is there a specific field of psych you're interested in?,464297,661074,8.867683333333330,early
+GSL_G.2_main_1,32604,control,thats a hard one,594825,551759,8.8994,early
+GSL_G.2_main_1,32605,control,psyc2600 Intro to social,90887,504005,9.081983333333330,early
+GSL_G.2_main_1,32606,control,What’s your favorite style of architecture,551759,90684,9.103666666666670,early
+GSL_G.2_main_1,32607,control,what about you,90887,504005,9.147666666666670,early
+GSL_G.2_main_1,32608,control,I’m in cognitive psych,551759,504005,9.289966666666670,early
+GSL_G.2_main_1,32609,control,honestly i havent been to many but i do like roots a lot,594825,551759,9.30085,early
+GSL_G.2_main_1,32610,control,i'm trying to decide what other pies to make but i'm thinking of doing an apple pie and then a pecan pie,90684,594825,9.333683333333330,early
+GSL_G.2_main_1,32611,control,no problem :),696373,90887,9.339083333333330,early
+GSL_G.2_main_1,32612,control,I'm in abnormal psych,504005,90887,9.3763,early
+GSL_G.2_main_1,32613,control,It’s super interesting but super test heavy,551759,504005,9.405633333333330,early
+GSL_G.2_main_1,32614,control,woah thats crazy,594825,661074,9.490683333333330,early
+GSL_G.2_main_1,32615,control,how's your prof?,504005,90887,9.511283333333330,early
+GSL_G.2_main_1,32616,control,were you friends?,594825,661074,9.554683333333330,early
+GSL_G.2_main_1,32617,control,are you excited for break next week?,696373,90887,9.589166666666670,early
+GSL_G.2_main_1,32618,control,I love cookies and cream,551759,976819,9.601383333333330,early
+GSL_G.2_main_1,32619,control,or are you now?,594825,661074,9.609266666666670,early
+GSL_G.2_main_1,32620,control,"good, i'm so ready for thanksgiving break",90684,661074,9.626966666666670,early
+GSL_G.2_main_1,32621,control,do you like the class?,504005,90887,9.717733333333330,early
+GSL_G.2_main_1,32622,control,It’s been pretty good,551759,696373,9.774583333333330,early
+GSL_G.2_main_1,32623,control,omg that sounds amazing,594825,90684,9.838416666666670,early
+GSL_G.2_main_1,32624,control,i'm good! what about you?,90684,976819,9.850783333333330,early
+GSL_G.2_main_1,32625,control,All of my classes have been manageable,551759,696373,9.916733333333330,early
+GSL_G.2_main_1,32626,control,a good apple pie always hits,594825,90684,10.048933333333300,middle
+GSL_G.2_main_1,32627,control,Roots is really good,551759,594825,10.128983333333300,middle
+GSL_G.2_main_1,32628,control,oooh do you learn about the process of learning?,504005,551759,10.1694,middle
+GSL_G.2_main_1,32629,control,that's good,696373,551759,10.177516666666700,middle
+GSL_G.2_main_1,32630,control,I haven’t been in a while,551759,594825,10.202833333333300,middle
+GSL_G.2_main_1,32631,control,im so sorry,594825,464297,10.234583333333300,middle
+GSL_G.2_main_1,32632,control,Lile Maupin,551759,464297,10.447116666666700,middle
+GSL_G.2_main_1,32633,control,Wbu,551759,464297,10.505166666666700,middle
+GSL_G.2_main_1,32634,control,what about you?,594825,551759,10.5241,middle
+GSL_G.2_main_1,32635,control,Yes exactly,551759,504005,10.659883333333300,middle
+GSL_G.2_main_1,32636,control,ohh cool I'm mainly doing the society of women engineers and all girls stem society this semester and then im now j playing soccer for fun but I had played travel since 3rd grade,976819,594825,10.709233333333300,middle
+GSL_G.2_main_1,32637,control,I wanna go into education so I feel like the class is super helpful,551759,504005,10.858033333333300,middle
+GSL_G.2_main_1,32638,control,hi!,594825,90887,10.8683,middle
+GSL_G.2_main_1,32639,control,i've only been to clark and clem and so far I think I prefer clem but I need to go explore the others,661074,551759,10.8899,middle
+GSL_G.2_main_1,32640,control,"<An Inspector Calls>, it's a detective movie",90887,551759,10.92415,middle
+GSL_G.2_main_1,32641,control,what's camp kesem?,976819,594825,10.9528,middle
+GSL_G.2_main_1,32642,control,what about you,90887,551759,10.985816666666700,middle
+GSL_G.2_main_1,32643,control,maybe Economics,90887,661074,11.172683333333300,middle
+GSL_G.2_main_1,32644,control,Probably asados or the boba place,551759,594825,11.19225,middle
+GSL_G.2_main_1,32645,control,omg I have a class i can recommend if you're interested,504005,551759,11.250883333333300,middle
+GSL_G.2_main_1,32646,control,oh sick,976819,551759,11.294666666666700,middle
+GSL_G.2_main_1,32647,control,which class are you in?,90887,661074,11.302416666666700,middle
+GSL_G.2_main_1,32648,control,Wow that's great to know,694133,90684,11.396133333333300,middle
+GSL_G.2_main_1,32649,control,thats awesome!,594825,976819,11.3964,middle
+GSL_G.2_main_1,32650,control,Ooh cool I haven’t seen it,551759,90887,11.399533333333300,middle
+GSL_G.2_main_1,32651,control,is ice cream your favorite dessert?,976819,551759,11.446766666666700,middle
+GSL_G.2_main_1,32652,control,i mean we weren't friends friends but we stick together us small town folk,661074,594825,11.482016666666700,middle
+GSL_G.2_main_1,32653,control,Yeah I like it,90887,504005,11.483316666666700,middle
+GSL_G.2_main_1,32654,control,I just watched alien last night and it was really good,551759,90887,11.580866666666700,middle
+GSL_G.2_main_1,32655,control,My professor she is great,90887,504005,11.632516666666700,middle
+GSL_G.2_main_1,32656,control,I'm in intro to educational psychology rn and that's offered in the ed school at ridley hall,504005,551759,11.643883333333300,middle
+GSL_G.2_main_1,32657,control,its this camp that people here volunteer at for children whose parents have cancer,594825,976819,11.669,middle
+GSL_G.2_main_1,32658,control,It's a very large lecture,90887,504005,11.846283333333300,middle
+GSL_G.2_main_1,32659,control,Clark is so beautiful,551759,661074,11.848533333333300,middle
+GSL_G.2_main_1,32660,control,Prob clinical psych so like therapy,661074,464297,11.850433333333300,middle
+GSL_G.2_main_1,32661,control,ooh boba is a good answer,594825,551759,11.9383,middle
+GSL_G.2_main_1,32662,control,how's your professor?,90887,504005,11.94665,middle
+GSL_G.2_main_1,32663,control,ohh cool,976819,661074,11.9523,middle
+GSL_G.2_main_1,32664,control,You should check out the music library,551759,661074,11.977016666666700,middle
+GSL_G.2_main_1,32665,control,Ha yeah,464297,594825,12.034766666666700,middle
+GSL_G.2_main_1,32666,control,its a hike,464297,594825,12.059283333333300,middle
+GSL_G.2_main_1,32667,control,did you always want to come to uva?,976819,661074,12.08475,middle
+GSL_G.2_main_1,32668,control,Yayyyy,90887,696373,12.132233333333300,middle
+GSL_G.2_main_1,32669,control,Do you generally prefer cities or nature?,694133,90684,12.155283333333300,middle
+GSL_G.2_main_1,32670,control,Cool,464297,551759,12.156866666666700,middle
+GSL_G.2_main_1,32671,control,me tooo i can't wait to go home on friday,661074,90684,12.160083333333300,middle
+GSL_G.2_main_1,32672,control,I'm in Kellogg,464297,551759,12.198916666666700,middle
+GSL_G.2_main_1,32673,control,Definitely!,90887,696373,12.21195,middle
+GSL_G.2_main_1,32674,control,I haven’t gone many times but it’s always so good,551759,594825,12.256166666666700,middle
+GSL_G.2_main_1,32675,control,oh cool!,976819,464297,12.257616666666700,middle
+GSL_G.2_main_1,32676,control,Oh awesome,464297,661074,12.289683333333300,middle
+GSL_G.2_main_1,32677,control,what are your plans for the break,90887,696373,12.317833333333300,middle
+GSL_G.2_main_1,32678,control,Nice!,696373,90887,12.323683333333300,middle
+GSL_G.2_main_1,32679,control,I'm in page!,976819,464297,12.36295,middle
+GSL_G.2_main_1,32680,control,I would say either clark or clem wbu,661074,551759,12.3713,middle
+GSL_G.2_main_1,32681,control,yeah definitely,594825,551759,12.378816666666700,middle
+GSL_G.2_main_1,32682,control,No way,551759,504005,12.39875,middle
+GSL_G.2_main_1,32683,control,to be honest i'm not really sure about the different types of architecture but i've always thought that gothic architecture is really pretty,90684,551759,12.3994,middle
+GSL_G.2_main_1,32684,control,and you can get ed school credit since that's not through the psych department,504005,551759,12.427666666666700,middle
+GSL_G.2_main_1,32685,control,what about you?,90684,551759,12.4706,middle
+GSL_G.2_main_1,32686,control,definitely nature,90684,694133,12.569816666666700,middle
+GSL_G.2_main_1,32687,control,hey,661074,696373,12.570883333333300,middle
+GSL_G.2_main_1,32688,control,do you like uva so far?,976819,464297,12.5744,middle
+GSL_G.2_main_1,32689,control,I’m planning on transferring to the ed school,551759,504005,12.579983333333300,middle
+GSL_G.2_main_1,32690,control,Hello :),90887,594825,12.628066666666700,middle
+GSL_G.2_main_1,32691,control,my friend and i went to every boba place where i live and ranked them,594825,551759,12.644266666666700,middle
+GSL_G.2_main_1,32692,control,Sara Rimm-Kaufman is the prof who's teaching this class this sem,504005,551759,12.787916666666700,middle
+GSL_G.2_main_1,32693,control,i grew up in the country on a farm so nature reminds me of home a lot,90684,694133,12.8248,middle
+GSL_G.2_main_1,32694,control,Nah,551759,976819,12.837633333333300,middle
+GSL_G.2_main_1,32695,control,I highly recommend her,504005,551759,12.880533333333300,middle
+GSL_G.2_main_1,32696,control,clinical psych so like therapy,661074,464297,12.886116666666700,middle
+GSL_G.2_main_1,32697,control,what about you,90684,694133,12.888716666666700,middle
+GSL_G.2_main_1,32698,control,yes especially with ice cream on top,90684,594825,13.087333333333300,middle
+GSL_G.2_main_1,32699,control,ohh that's awesome,976819,594825,13.119416666666700,middle
+GSL_G.2_main_1,32700,control,haha yeah that makes sense,594825,661074,13.142033333333300,middle
+GSL_G.2_main_1,32701,control,I love deserts that aren’t super sweet,551759,976819,13.143516666666700,middle
+GSL_G.2_main_1,32702,control,which year are you in :),90887,594825,13.154966666666700,middle
+GSL_G.2_main_1,32703,control,I'm going home and my sister that's in Nigeria is coming to visit so I can't wait to see her,696373,90887,13.191333333333300,middle
+GSL_G.2_main_1,32704,control,how far is lynchburg from here?,594825,661074,13.280566666666700,middle
+GSL_G.2_main_1,32705,control,Do you plan on doing YSL?,504005,551759,13.288683333333300,middle
+GSL_G.2_main_1,32706,control,hey,696373,661074,13.288766666666700,middle
+GSL_G.2_main_1,32707,control,how long have you worked there?,976819,594825,13.331566666666700,middle
+GSL_G.2_main_1,32708,control,did you know that it's a midwestern thing for people to put cheddar cheese on their apple pie,90684,594825,13.34915,middle
+GSL_G.2_main_1,32709,control,That’s really good to know,551759,504005,13.376583333333300,middle
+GSL_G.2_main_1,32710,control,yooo,661074,504005,13.377383333333300,middle
+GSL_G.2_main_1,32711,control,how are you?,696373,661074,13.442733333333300,middle
+GSL_G.2_main_1,32712,control,Yes!!,551759,504005,13.470866666666700,middle
+GSL_G.2_main_1,32713,control,i have actually heard that but i thought it was a joke,594825,90684,13.591,middle
+GSL_G.2_main_1,32714,control,That's fantastic,90887,696373,13.591433333333300,middle
+GSL_G.2_main_1,32715,control,That sounds so fun,551759,594825,13.686383333333300,middle
+GSL_G.2_main_1,32716,control,haha are you skipping class on monday and tuesday,90684,661074,13.696266666666700,middle
+GSL_G.2_main_1,32717,control,what about you?,696373,90887,13.728766666666700,middle
+GSL_G.2_main_1,32718,control,I also miss my sister,90887,696373,13.742433333333300,middle
+GSL_G.2_main_1,32719,control,i guess it could be good??,594825,90684,13.777266666666700,middle
+GSL_G.2_main_1,32720,control,ohh interesting,976819,551759,13.802533333333300,middle
+GSL_G.2_main_1,32721,control,We only had two boba places where I lived,551759,594825,13.855483333333300,middle
+GSL_G.2_main_1,32722,control,aww,696373,90887,13.885833333333300,middle
+GSL_G.2_main_1,32723,control,what year are you?,976819,551759,13.901016666666700,middle
+GSL_G.2_main_1,32724,control,"I really like him too, he's very distinguished in his field and so his lectures are really engaging as well",504005,90887,14.02165,middle
+GSL_G.2_main_1,32725,control,Prolly Clark,551759,661074,14.095033333333300,middle
+GSL_G.2_main_1,32726,control,good as well haha,976819,90684,14.150583333333300,middle
+GSL_G.2_main_1,32727,control,at least you get a good workout in!,594825,464297,14.192833333333300,middle
+GSL_G.2_main_1,32728,control,"i guess it might be, i might have to try it over break",90684,594825,14.198133333333300,middle
+GSL_G.2_main_1,32729,control,what year are you?,976819,90684,14.23995,middle
+GSL_G.2_main_1,32730,control,I'm not sure if he'll be retiring this sem tho,504005,90887,14.255683333333300,middle
+GSL_G.2_main_1,32731,control,Idk much about architecture either tbh,551759,90684,14.328966666666700,middle
+GSL_G.2_main_1,32732,control,maybe the salty sweet contrast makes it work somehow,90684,594825,14.357616666666700,middle
+GSL_G.2_main_1,32733,control,"im a first year, wbu?",594825,90887,14.41625,middle
+GSL_G.2_main_1,32734,control,haha,90684,551759,14.4712,middle
+GSL_G.2_main_1,32735,control,hii what's your favorite animal?,976819,504005,14.497283333333300,middle
+GSL_G.2_main_1,32736,control,I think UVAs architecture is super cool though,551759,90684,14.50585,middle
+GSL_G.2_main_1,32737,control,I maybe spend one day wandering around Washington,90887,696373,14.575916666666700,middle
+GSL_G.2_main_1,32738,control,Nature for sure,694133,90684,14.65915,middle
+GSL_G.2_main_1,32739,control,it's a big lecture with over 450 students,504005,90887,14.7246,middle
+GSL_G.2_main_1,32740,control,im a first year so i just joined this semester but im really excited to see where it goes,594825,976819,14.787066666666700,middle
+GSL_G.2_main_1,32741,control,No way,551759,464297,14.791866666666700,middle
+GSL_G.2_main_1,32742,control,yes i love it everything is so pretty here,90684,551759,14.796433333333300,middle
+GSL_G.2_main_1,32743,control,ooh that sounds fun!,696373,90887,14.8145,middle
+GSL_G.2_main_1,32744,control,the people seem super nice,594825,976819,14.8564,middle
+GSL_G.2_main_1,32745,control,"Wowwww,",90887,504005,14.857866666666700,middle
+GSL_G.2_main_1,32746,control,what's a hot take you have,90684,551759,14.869433333333300,middle
+GSL_G.2_main_1,32747,control,much larger than mine,90887,504005,14.92495,middle
+GSL_G.2_main_1,32748,control,What was it like growing up on a farm?,694133,90684,14.92725,middle
+GSL_G.2_main_1,32749,control,Are you pre med as well?,464297,661074,15.089466666666700,middle
+GSL_G.2_main_1,32750,control,I love kellogg,551759,464297,15.115733333333300,middle
+GSL_G.2_main_1,32751,control,that's awesomeeee,504005,551759,15.124566666666700,middle
+GSL_G.2_main_1,32752,control,ooh where are you from?,594825,551759,15.160766666666700,middle
+GSL_G.2_main_1,32753,control,hii where is your favorite place that you've traveled to?,976819,696373,15.165033333333300,middle
+GSL_G.2_main_1,32754,control,is the content difficult,90887,504005,15.205066666666700,middle
+GSL_G.2_main_1,32755,control,check out that class if you get a chance,504005,551759,15.239116666666700,middle
+GSL_G.2_main_1,32756,control,True!,464297,594825,15.301516666666700,middle
+GSL_G.2_main_1,32757,control,Do you like uva so far?,464297,594825,15.420166666666700,middle
+GSL_G.2_main_1,32758,control,me toooo,90887,594825,15.4732,middle
+GSL_G.2_main_1,32759,control,yeah i could see that,594825,90684,15.484966666666700,middle
+GSL_G.2_main_1,32760,control,if you dont think about it too much,594825,90684,15.575183333333300,middle
+GSL_G.2_main_1,32761,control,I think it'll be really beneficial because you also learn about working with children and how to engage their learning,504005,551759,15.594833333333300,middle
+GSL_G.2_main_1,32762,control,Green bean casserole is one of my favorite thanksgiving foods,551759,90684,15.7213,middle
+GSL_G.2_main_1,32763,control,what's your major?,90887,594825,15.75705,middle
+GSL_G.2_main_1,32764,control,yeah for the most part!,594825,464297,15.87155,middle
+GSL_G.2_main_1,32765,control,Also I think snakes are super cute,551759,90684,15.957666666666700,middle
+GSL_G.2_main_1,32766,control,"it was really cool, we have cows and chickens and it gave me a lot of appreciation for the cycle of life",90684,694133,15.97495,middle
+GSL_G.2_main_1,32767,control,What’s your hot take,551759,90684,16.04635,middle
+GSL_G.2_main_1,32768,control,it was a rough adjustment but i really like the school,594825,464297,16.072533333333300,middle
+GSL_G.2_main_1,32769,control,Heyyyy I like red pandas and foxes,504005,976819,16.084883333333300,middle
+GSL_G.2_main_1,32770,control,wbu?,594825,464297,16.10995,middle
+GSL_G.2_main_1,32771,control,ohh that's so cool,976819,594825,16.178866666666700,middle
+GSL_G.2_main_1,32772,control,Harrisonburg,551759,594825,16.213166666666700,middle
+GSL_G.2_main_1,32773,control,Wbu,551759,594825,16.23443333333330,middle
+GSL_G.2_main_1,32774,control,what's your major?,976819,594825,16.282633333333300,middle
+GSL_G.2_main_1,32775,control,im environmental science!,594825,90887,16.324766666666700,middle
+GSL_G.2_main_1,32776,control,what's your favorite food?,504005,976819,16.336,middle
+GSL_G.2_main_1,32777,control,I hate sweet tea with a passion it's just not good,90684,551759,16.355283333333300,middle
+GSL_G.2_main_1,32778,control,I definitely wil,551759,504005,16.399683333333300,middle
+GSL_G.2_main_1,32779,control,whats yours?,594825,90887,16.419516666666700,middle
+GSL_G.2_main_1,32780,control,hii:) i would say london,696373,976819,16.528566666666700,middle
+GSL_G.2_main_1,32781,control,What’s your major,551759,504005,16.58115,middle
+GSL_G.2_main_1,32782,control,im environmental science wbu?,594825,976819,16.5978,middle
+GSL_G.2_main_1,32783,control,Yeah? How so?,694133,90684,16.623733333333300,middle
+GSL_G.2_main_1,32784,control,"wow, do you like scientific movies?",90887,551759,16.62585,middle
+GSL_G.2_main_1,32785,control,what about you?,696373,976819,16.64775,middle
+GSL_G.2_main_1,32786,control,and oh my gosh i hate snakes so that is definitely a hot take,90684,551759,16.64835,middle
+GSL_G.2_main_1,32787,control,First,551759,976819,16.66065,middle
+GSL_G.2_main_1,32788,control,oh sick,976819,504005,16.669966666666700,middle
+GSL_G.2_main_1,32789,control,Wbu,551759,976819,16.674783333333300,middle
+GSL_G.2_main_1,32790,control,im from arlington,594825,551759,16.803933333333300,middle
+GSL_G.2_main_1,32791,control,i'm a first year,90684,976819,16.864116666666700,middle
+GSL_G.2_main_1,32792,control,what about you?,90684,976819,16.9136,middle
+GSL_G.2_main_1,32793,control,"Yes, if you've never taken a psych class before—there's just a LOT of reading and his tests are tricky",504005,90887,16.949633333333300,middle
+GSL_G.2_main_1,32794,control,"wow, that sounds so cool!",90887,594825,16.954416666666700,middle
+GSL_G.2_main_1,32795,control,you didnt want to go to jmu? haha,594825,551759,17.052416666666700,middle
+GSL_G.2_main_1,32796,control,me might do Economics,90887,594825,17.179716666666700,middle
+GSL_G.2_main_1,32797,control,I used to be a huge rom com fan but I feel like those were getting a little repetitive,551759,90887,17.20875,middle
+GSL_G.2_main_1,32798,control,Haha really why,464297,551759,17.219266666666700,middle
+GSL_G.2_main_1,32799,control,hi!,594825,504005,17.39125,middle
+GSL_G.2_main_1,32800,control,What’s your favorite genre of movie,551759,90887,17.45305,middle
+GSL_G.2_main_1,32801,control,for favorite food I'd say either Italian food like pasta or a really good steak haha,976819,504005,17.463166666666700,middle
+GSL_G.2_main_1,32802,control,hbu,976819,504005,17.485216666666700,middle
+GSL_G.2_main_1,32803,control,Have you heard of Green Housing Coalition?,90887,594825,17.529,middle
+GSL_G.2_main_1,32804,control,hii:) what's your favorite place on grounds,696373,694133,17.5699,middle
+GSL_G.2_main_1,32805,control,It's a club,90887,594825,17.596033333333300,middle
+GSL_G.2_main_1,32806,control,it's like you can study a lot for his class but his test questions can be difficult,504005,90887,17.731916666666700,middle
+GSL_G.2_main_1,32807,control,ok random conversation starter: how many toddlers do you think you could realistically fight off if they were all attacking you at once?,90684,696373,17.7452,middle
+GSL_G.2_main_1,32808,control,Yes! Love the people I've met and my classes,464297,976819,17.80655,middle
+GSL_G.2_main_1,32809,control,I like sweet tea with lemonade,551759,90684,17.808616666666700,middle
+GSL_G.2_main_1,32810,control,I'm in there and it's about environmental science,90887,594825,17.84425,middle
+GSL_G.2_main_1,32811,control,like just a swarm of preschoolers,90684,696373,17.8445,middle
+GSL_G.2_main_1,32812,control,What about you?,464297,976819,17.847133333333300,middle
+GSL_G.2_main_1,32813,control,I have a lot of friends there,551759,464297,17.979283333333300,middle
+GSL_G.2_main_1,32814,control,ohh me too,976819,90684,17.99191666666670,middle
+GSL_G.2_main_1,32815,control,oh awesome!,594825,90887,17.9959,middle
+GSL_G.2_main_1,32816,control,That's good overall,464297,594825,18.040033333333300,middle
+GSL_G.2_main_1,32817,control,ive never heard of it,594825,90887,18.062666666666700,middle
+GSL_G.2_main_1,32818,control,clinical psych,661074,464297,18.083733333333300,middle
+GSL_G.2_main_1,32819,control,oh like an arnold palmer,90684,551759,18.096466666666700,middle
+GSL_G.2_main_1,32820,control,I like it too a lot!,464297,594825,18.101466666666700,middle
+GSL_G.2_main_1,32821,control,omg,90887,504005,18.10225,middle
+GSL_G.2_main_1,32822,control,what do you do?,594825,90887,18.108233333333300,middle
+GSL_G.2_main_1,32823,control,Where are you from?,464297,594825,18.171483333333300,middle
+GSL_G.2_main_1,32824,control,did you always want to come to uva?,976819,90684,18.202233333333300,middle
+GSL_G.2_main_1,32825,control,I like sushi and any noodle dishes tbh,504005,976819,18.242933333333300,middle
+GSL_G.2_main_1,32826,control,I chose uva for its amazing food and athletics,551759,594825,18.29755,middle
+GSL_G.2_main_1,32827,control,how do you like your steak to be cooked?,504005,976819,18.330066666666700,middle
+GSL_G.2_main_1,32828,control,hope you are doing well :),90887,504005,18.3559,middle
+GSL_G.2_main_1,32829,control,yeah me too,976819,551759,18.4372,middle
+GSL_G.2_main_1,32830,control,"im from arlington, wbu?",594825,464297,18.46395,middle
+GSL_G.2_main_1,32831,control,probably 2 or 3,696373,90684,18.471783333333300,middle
+GSL_G.2_main_1,32832,control,do you have any other exams later on,90887,504005,18.55495,middle
+GSL_G.2_main_1,32833,control,was uva your top choice?,976819,551759,18.568283333333300,middle
+GSL_G.2_main_1,32834,control,Psych,504005,551759,18.568666666666700,middle
+GSL_G.2_main_1,32835,control,"not really, i'm from nc and so my main choices were chapel hill or nc state",90684,976819,18.573116666666700,middle
+GSL_G.2_main_1,32836,control,I like the question it was funny,696373,90684,18.650283333333300,middle
+GSL_G.2_main_1,32837,control,Jmu can’t even compete with uva in those aspects,551759,594825,18.670133333333300,middle
+GSL_G.2_main_1,32838,control,and no one from my high school ever went to uva,90684,976819,18.703533333333300,middle
+GSL_G.2_main_1,32839,control,Yesss,551759,90684,18.804716666666700,middle
+GSL_G.2_main_1,32840,control,what about you?,90684,976819,18.85485,middle
+GSL_G.2_main_1,32841,control,thats so true,594825,551759,18.8916,middle
+GSL_G.2_main_1,32842,control,what about you?,696373,90684,18.9003,middle
+GSL_G.2_main_1,32843,control,Those are delicious,551759,90684,18.94311666666670,middle
+GSL_G.2_main_1,32844,control,do you hope to become a teacher?,504005,551759,18.9584,middle
+GSL_G.2_main_1,32845,control,yesterday i had a 5 course meal at newcomb,594825,551759,19.0456,middle
+GSL_G.2_main_1,32846,control,i think i could handle about four,90684,696373,19.08555,middle
+GSL_G.2_main_1,32847,control,best food ive every had,594825,551759,19.109416666666700,middle
+GSL_G.2_main_1,32848,control,ME TOO,551759,594825,19.154616666666700,middle
+GSL_G.2_main_1,32849,control,FOR THANKSGIVING,551759,594825,19.20575,middle
+GSL_G.2_main_1,32850,control,HAHA,594825,551759,19.334483333333300,middle
+GSL_G.2_main_1,32851,control,YESSS,594825,551759,19.360016666666700,middle
+GSL_G.2_main_1,32852,control,yeah its been so much fun and im so glad that I chose to come here haha,976819,464297,19.419733333333300,middle
+GSL_G.2_main_1,32853,control,Sorry I just got so excited about good food,551759,594825,19.447433333333300,middle
+GSL_G.2_main_1,32854,control,that seems like a decent number,696373,90684,19.474616666666700,middle
+GSL_G.2_main_1,32855,control,but if they were super angry and hyped up on a bunch of sugar i think that three might be more realistic,90684,696373,19.585766666666700,middle
+GSL_G.2_main_1,32856,control,"Yes, for that class he scheduled the last class exam and the final on the same week, two days apart from each other :O",504005,90887,19.628066666666700,middle
+GSL_G.2_main_1,32857,control,where are you from?,976819,464297,19.716716666666700,middle
+GSL_G.2_main_1,32858,control,actually I am also a fan for rom com,90887,551759,19.76175,middle
+GSL_G.2_main_1,32859,control,For a few years and then I want to get into policy,551759,504005,19.7622,middle
+GSL_G.2_main_1,32860,control,what made you ask that?,696373,90684,19.81276666666670,middle
+GSL_G.2_main_1,32861,control,but I also like the animation lol,90887,551759,19.91225,middle
+GSL_G.2_main_1,32862,control,Honestly yeah,551759,976819,19.919083333333300,middle
+GSL_G.2_main_1,32863,control,I’m in state so it just made sense,551759,976819,20.028783333333300,late
+GSL_G.2_main_1,32864,control,do you have mazurek?,504005,90887,20.045933333333300,late
+GSL_G.2_main_1,32865,control,just so many nutritious options that you finish every time :),594825,551759,20.0696,late
+GSL_G.2_main_1,32866,control,that's always my go to question to start a conversation,90684,696373,20.1467,late
+GSL_G.2_main_1,32867,control,Was uva your top choice?,551759,976819,20.169016666666700,late
+GSL_G.2_main_1,32868,control,hellllo~,504005,594825,20.177366666666700,late
+GSL_G.2_main_1,32869,control,how's it going?,504005,594825,20.261666666666700,late
+GSL_G.2_main_1,32870,control,it's just really funny,90684,696373,20.26195,late
+GSL_G.2_main_1,32871,control,ohh cool,976819,90684,20.331633333333300,late
+GSL_G.2_main_1,32872,control,"pretty good, how about you?",594825,504005,20.425316666666700,late
+GSL_G.2_main_1,32873,control,Oh cool I'm from falls church,464297,594825,20.47015,late
+GSL_G.2_main_1,32874,control,Yes ohill and Newcomb are always so yummy and nutritious,551759,594825,20.565066666666700,late
+GSL_G.2_main_1,32875,control,oooh~ any reason why?,504005,551759,20.569516666666700,late
+GSL_G.2_main_1,32876,control,you don't have to tell me if you don't want to,504005,551759,20.673116666666700,late
+GSL_G.2_main_1,32877,control,"yeah it threw me off ngl, but it was funny :)",696373,90684,20.676933333333300,late
+GSL_G.2_main_1,32878,control,Never would throw away their food,551759,594825,20.710766666666700,late
+GSL_G.2_main_1,32879,control,ok top three favorite movies of all time GO,90684,504005,20.759383333333300,late
+GSL_G.2_main_1,32880,control,nice! what school did you go to?,594825,464297,20.846183333333300,late
+GSL_G.2_main_1,32881,control,haha thanks,90684,696373,20.879283333333300,late
+GSL_G.2_main_1,32882,control,I wasn't like set on it at first but im really glad that I did choose to come here,976819,90684,20.938,late
+GSL_G.2_main_1,32883,control,"sameee, I'm waiting for next week to arrive fast",504005,594825,21.0321,late
+GSL_G.2_main_1,32884,control,What’s your favorite movie of all time,551759,90887,21.068766666666700,late
+GSL_G.2_main_1,32885,control,never,594825,551759,21.086466666666700,late
+GSL_G.2_main_1,32886,control,what are you involved in?,976819,90684,21.091033333333300,late
+GSL_G.2_main_1,32887,control,i did steal a pumpkin from newcomb the other day,594825,551759,21.327983333333300,late
+GSL_G.2_main_1,32888,control,That's awesome,464297,976819,21.365233333333300,late
+GSL_G.2_main_1,32889,control,clem,661074,551759,21.377566666666700,late
+GSL_G.2_main_1,32890,control,I'm from falls church va,464297,976819,21.456866666666700,late
+GSL_G.2_main_1,32891,control,What about you?,464297,976819,21.5003,late
+GSL_G.2_main_1,32892,control,ohh awesome,976819,551759,21.525983333333300,late
+GSL_G.2_main_1,32893,control,but the tuition paid for it so its ok,594825,551759,21.5371,late
+GSL_G.2_main_1,32894,control,favorite place you've traveled to?,696373,90684,21.64753333333330,late
+GSL_G.2_main_1,32895,control,me too haha,594825,504005,21.719833333333300,late
+GSL_G.2_main_1,32896,control,Meridian it used to be George Mason,464297,594825,21.725816666666700,late
+GSL_G.2_main_1,32897,control,What about you?,464297,594825,21.7733,late
+GSL_G.2_main_1,32898,control,"i do pancakes for parkinsons, remote area medical, club swim, and then i do a campus ministry called center college",90684,976819,21.83663333333330,late
+GSL_G.2_main_1,32899,control,it cant come quick enough,594825,504005,21.92965,late
+GSL_G.2_main_1,32900,control,"I really want to make public schools provide more equitable opportunities for all students, and I want to make teachers want to teach",551759,504005,21.931783333333300,late
+GSL_G.2_main_1,32901,control,I mean I was dead set on it but im really glad that I did choose to come here,976819,551759,21.9635,late
+GSL_G.2_main_1,32902,control,oh cool,464297,661074,22.000566666666700,late
+GSL_G.2_main_1,32903,control,honestly,504005,594825,22.0411,late
+GSL_G.2_main_1,32904,control,we had series about environmental situation in Charlottesville by professors and we also had a series which the graduate share her experiences,90887,594825,22.093783333333300,late
+GSL_G.2_main_1,32905,control,Me too,551759,976819,22.106616666666700,late
+GSL_G.2_main_1,32906,control,ohh ok i think ive heard of that,594825,464297,22.156833333333300,late
+GSL_G.2_main_1,32907,control,im crawling to the finish line at this point,504005,594825,22.17866666666670,late
+GSL_G.2_main_1,32908,control,It’s such a great school,551759,976819,22.179733333333300,late
+GSL_G.2_main_1,32909,control,i'm going to try to join some new clubs next semester because i want to branch out a little more,90684,976819,22.188783333333300,late
+GSL_G.2_main_1,32910,control,i went to wakefield,594825,464297,22.217666666666700,late
+GSL_G.2_main_1,32911,control,what about you,90684,976819,22.233366666666700,late
+GSL_G.2_main_1,32912,control,what's your major?,976819,551759,22.329033333333300,late
+GSL_G.2_main_1,32913,control,That’s literally my mentality,551759,594825,22.374833333333300,late
+GSL_G.2_main_1,32914,control,literally hanging on by a thread,594825,504005,22.4147,late
+GSL_G.2_main_1,32915,control,I’m paying too much to not get my moneys worth,551759,594825,22.639833333333300,late
+GSL_G.2_main_1,32916,control,that's a good initiative!,504005,551759,22.647966666666700,late
+GSL_G.2_main_1,32917,control,I agree with you,504005,551759,22.732683333333300,late
+GSL_G.2_main_1,32918,control,oh we also had a champaign in city council about promoting sustainable exercises in City Council recently!,90887,594825,22.8443,late
+GSL_G.2_main_1,32919,control,"kind of lame but i love Wisconsin, its where all of my mom's family is from and it's so pretty up there",90684,696373,22.846983333333300,late
+GSL_G.2_main_1,32920,control,oh awesome wait like city or the one in Fairfax?,976819,464297,22.876116666666700,late
+GSL_G.2_main_1,32921,control,hey,661074,696373,22.884133333333300,late
+GSL_G.2_main_1,32922,control,it was great,90887,594825,22.9176,late
+GSL_G.2_main_1,32923,control,many parts of the education system need reforms,504005,551759,22.931516666666700,late
+GSL_G.2_main_1,32924,control,im from Arlington,976819,464297,22.954783333333300,late
+GSL_G.2_main_1,32925,control,Clems ugly from the outside though,551759,661074,22.96535,late
+GSL_G.2_main_1,32926,control,woah thats really cool,594825,90887,23.023866666666700,late
+GSL_G.2_main_1,32927,control,aww that's sweet,696373,90684,23.1022,late
+GSL_G.2_main_1,32928,control,i've never been out of the country though but i'm hoping to do that sometime during college,90684,696373,23.185666666666700,late
+GSL_G.2_main_1,32929,control,Exactly,551759,504005,23.188983333333300,late
+GSL_G.2_main_1,32930,control,maybe ill join next semester if thats still an option?!,594825,90887,23.2083,late
+GSL_G.2_main_1,32931,control,fr fr,504005,594825,23.257633333333300,late
+GSL_G.2_main_1,32932,control,are you taking any fun classes next sem,504005,594825,23.3839,late
+GSL_G.2_main_1,32933,control,I do have a favorite one but I definitely recommend for Disneys loll,90887,551759,23.400516666666700,late
+GSL_G.2_main_1,32934,control,literally,594825,551759,23.413383333333300,late
+GSL_G.2_main_1,32935,control,what's your favorite place that you've traveled to?,90684,696373,23.45553333333330,late
+GSL_G.2_main_1,32936,control,what's yours,90887,551759,23.498516666666700,late
+GSL_G.2_main_1,32937,control,no definitely like all around there is such a good balance,976819,551759,23.5435,late
+GSL_G.2_main_1,32938,control,hey,661074,696373,23.570683333333300,late
+GSL_G.2_main_1,32939,control,What are you hoping to do with your major?,551759,504005,23.575266666666700,late
+GSL_G.2_main_1,32940,control,i also dont understand how runk food cant be at every dining hall,594825,551759,23.661466666666700,late
+GSL_G.2_main_1,32941,control,"Ok top three favorite movies of all time, GO",90684,464297,23.765,late
+GSL_G.2_main_1,32942,control,Youth and social innovation,551759,976819,23.7809,late
+GSL_G.2_main_1,32943,control,Wbu,551759,976819,23.80366666666670,late
+GSL_G.2_main_1,32944,control,im in the engineering school and im thinking either systems or mechanical,976819,551759,23.87301666666670,late
+GSL_G.2_main_1,32945,control,"like they have it at one, why not put good food at newcomb and ohill too",594825,551759,23.919516666666700,late
+GSL_G.2_main_1,32946,control,Oh cool,464297,594825,23.952466666666700,late
+GSL_G.2_main_1,32947,control,Literally,551759,594825,23.980066666666700,late
+GSL_G.2_main_1,32948,control,omggg,90887,504005,24.08005,late
+GSL_G.2_main_1,32949,control,ohh cool,976819,551759,24.083066666666700,late
+GSL_G.2_main_1,32950,control,London; i went with my family and it was fun,696373,90684,24.104533333333300,late
+GSL_G.2_main_1,32951,control,I’ve had the foulest food sometimes,551759,594825,24.112016666666700,late
+GSL_G.2_main_1,32952,control,Are there a lot of people here from your high school?,464297,594825,24.2261,late
+GSL_G.2_main_1,32953,control,"I'm thinking of doing clinical or counseling, so I'll be going to grad school after",504005,551759,24.246316666666700,late
+GSL_G.2_main_1,32954,control,No you mean Economics professor?,90887,504005,24.256433333333300,late
+GSL_G.2_main_1,32955,control,is that in the education school?,976819,551759,24.265933333333300,late
+GSL_G.2_main_1,32956,control,did you do a lot of sightseeing,90684,696373,24.418083333333300,late
+GSL_G.2_main_1,32957,control,i want to take oceanography but i couldnt get in now because of the credit cap,594825,504005,24.543866666666700,late
+GSL_G.2_main_1,32958,control,ohh nice,976819,504005,24.5509,late
+GSL_G.2_main_1,32959,control,I love Pitch Perfect,551759,90887,24.600416666666700,late
+GSL_G.2_main_1,32960,control,are you?,594825,504005,24.634133333333300,late
+GSL_G.2_main_1,32961,control,I like a good medium rare haha,976819,504005,24.707433333333300,late
+GSL_G.2_main_1,32962,control,"Crazy rich asians, the godfather, ten things I hate about you",464297,90684,24.71925,late
+GSL_G.2_main_1,32963,control,hbu,976819,504005,24.729883333333300,late
+GSL_G.2_main_1,32964,control,but I really think this schedule is weird and horrified,90887,504005,24.7667,late
+GSL_G.2_main_1,32965,control,Oh cool!,551759,504005,24.820866666666700,late
+GSL_G.2_main_1,32966,control,yeah theres like 25 haha,594825,464297,24.846833333333300,late
+GSL_G.2_main_1,32967,control,I would love to do counseling too,551759,504005,24.91955,late
+GSL_G.2_main_1,32968,control,everywhere i look theyre there,594825,464297,24.93995,late
+GSL_G.2_main_1,32969,control,Arkells,694133,551759,24.960383333333300,late
+GSL_G.2_main_1,32970,control,oh my gosh i love crazy rich asians so much,90684,464297,25.018833333333300,late
+GSL_G.2_main_1,32971,control,Oh awesome,464297,551759,25.05015,late
+GSL_G.2_main_1,32972,control,Yeah,551759,976819,25.07208333333330,late
+GSL_G.2_main_1,32973,control,I though you're in social psych?,504005,90887,25.079666666666700,late
+GSL_G.2_main_1,32974,control,Pavillion gardens! you?,694133,696373,25.213833333333300,late
+GSL_G.2_main_1,32975,control,its actually heinous,594825,551759,25.2229,late
+GSL_G.2_main_1,32976,control,Oh cool,464297,976819,25.355316666666700,late
+GSL_G.2_main_1,32977,control,yeah the city! I went to meridian,464297,976819,25.417633333333300,late
+GSL_G.2_main_1,32978,control,yeppp,504005,594825,25.422766666666700,late
+GSL_G.2_main_1,32979,control,ohh cool I was there in 2019 but I'd say either annecy in France or maui,976819,696373,25.43695,late
+GSL_G.2_main_1,32980,control,"mine would be napoleon dynamite, clueless, and la la land",90684,464297,25.44765,late
+GSL_G.2_main_1,32981,control,Are you liking the engineering school?,551759,976819,25.447733333333300,late
+GSL_G.2_main_1,32982,control,"yeah, i went to buckingham palace and went on the london eye; you know all the touristy things :)",696373,90684,25.4535,late
+GSL_G.2_main_1,32983,control,You?,694133,551759,25.45703333333330,late
+GSL_G.2_main_1,32984,control,ohh thanks for the recommendation!!,90887,551759,25.510983333333300,late
+GSL_G.2_main_1,32985,control,what high school did you go to,464297,976819,25.512916666666700,late
+GSL_G.2_main_1,32986,control,oceanography sounds rly cool tho,504005,594825,25.575683333333300,late
+GSL_G.2_main_1,32987,control,wow that sounds so cool,90684,696373,25.64755,late
+GSL_G.2_main_1,32988,control,that's so funny,464297,594825,25.702616666666700,late
+GSL_G.2_main_1,32989,control,are you more of a beach or mountain person?,976819,696373,25.71105,late
+GSL_G.2_main_1,32990,control,What’s the worst thing you’ve gotten from a dining hall,551759,594825,25.73235,late
+GSL_G.2_main_1,32991,control,have you been anywhere else outside of the us,90684,696373,25.881116666666700,late
+GSL_G.2_main_1,32992,control,Bad bunny,551759,694133,25.913433333333300,late
+GSL_G.2_main_1,32993,control,I feel you,464297,594825,25.93685,late
+GSL_G.2_main_1,32994,control,Windows at New Cabell,696373,694133,25.943616666666700,late
+GSL_G.2_main_1,32995,control,ohh nice,976819,551759,25.972483333333300,late
+GSL_G.2_main_1,32996,control,a lot of ysl people have a minor or double major in psych,504005,551759,26.050516666666700,late
+GSL_G.2_main_1,32997,control,Solid,694133,551759,26.190833333333300,late
+GSL_G.2_main_1,32998,control,so you can pick that up too if interested!,504005,551759,26.238233333333300,late
+GSL_G.2_main_1,32999,control,right I just watched it last week,464297,90684,26.266016666666700,late
+GSL_G.2_main_1,33000,control,"I like it so far, honestly its just been intro classes so it hasn't been too bad",976819,551759,26.33685,late
+GSL_G.2_main_1,33001,control,I've been to Nigeria that's where my family is from,696373,90684,26.3595,late
+GSL_G.2_main_1,33002,control,i think one time newcomb had this thing with eggs and sauce and i ate one bite and then spit it out,594825,551759,26.3933,late
+GSL_G.2_main_1,33003,control,Yeah I’m definitely considering psych or anthropology,551759,504005,26.409983333333300,late
+GSL_G.2_main_1,33004,control,Do you think you're a good dancer?,694133,551759,26.426516666666700,late
+GSL_G.2_main_1,33005,control,oooh maybe i'll have to try one,90684,551759,26.46976666666670,late
+GSL_G.2_main_1,33006,control,that's a good answer,464297,90684,26.483616666666700,late
+GSL_G.2_main_1,33007,control,but I think it might get worse lol,976819,551759,26.4911,late
+GSL_G.2_main_1,33008,control,classic,464297,90684,26.515783333333300,late
+GSL_G.2_main_1,33009,control,neither lol,696373,976819,26.61225,late
+GSL_G.2_main_1,33010,control,"Actually I like animation, romantic, and TV series like Friends",90887,551759,26.615733333333300,late
+GSL_G.2_main_1,33011,control,ive learned not to be adventurous in the dining halls,594825,551759,26.676466666666700,late
+GSL_G.2_main_1,33012,control,They are really nice,90887,551759,26.7199,late
+GSL_G.2_main_1,33013,control,what about you?,696373,976819,26.798966666666700,late
+GSL_G.2_main_1,33014,control,Yeah I like a medium too,504005,976819,26.807166666666700,late
+GSL_G.2_main_1,33015,control,I’ve bit into a whole chunk of salt at ohill before,551759,594825,26.853866666666700,late
+GSL_G.2_main_1,33016,control,Oh I love those,694133,696373,26.900883333333300,late
+GSL_G.2_main_1,33017,control,do you have a lot of people here from your high school?,594825,464297,26.926916666666700,late
+GSL_G.2_main_1,33018,control,and I watch them in my leisure time,90887,551759,26.9585,late
+GSL_G.2_main_1,33019,control,Do you like sunrises or sunsets?,694133,696373,27.005533333333300,late
+GSL_G.2_main_1,33020,control,What are your hobbies,90887,551759,27.0755,late
+GSL_G.2_main_1,33021,control,Friends is really good,551759,90887,27.107466666666700,late
+GSL_G.2_main_1,33022,control,I'm considering anthro too rn lol,504005,551759,27.11766666666670,late
+GSL_G.2_main_1,33023,control,I love dance,551759,90887,27.15895,late
+GSL_G.2_main_1,33024,control,yeah hopefully i get in!,594825,504005,27.1796,late
+GSL_G.2_main_1,33025,control,sunsets,696373,694133,27.19465,late
+GSL_G.2_main_1,33026,control,i'm taking an intro class next sem,504005,551759,27.2299,late
+GSL_G.2_main_1,33027,control,I’m a dance minor actually,551759,90887,27.2556,late
+GSL_G.2_main_1,33028,control,what class are you taking?,594825,504005,27.260516666666700,late
+GSL_G.2_main_1,33029,control,are you?,504005,551759,27.264766666666700,late
+GSL_G.2_main_1,33030,control,"Yesss, definitely!!",90887,594825,27.28595,late
+GSL_G.2_main_1,33031,control,Why?,694133,696373,27.33165,late
+GSL_G.2_main_1,33032,control,What are your hobbies?,551759,90887,27.362283333333300,late
+GSL_G.2_main_1,33033,control,no way,594825,551759,27.4028,late
+GSL_G.2_main_1,33034,control,"that's cool, have you been there more than once",90684,696373,27.413533333333300,late
+GSL_G.2_main_1,33035,control,what was that in???,594825,551759,27.502383333333300,late
+GSL_G.2_main_1,33036,control,I’m a dance minor so I’d hope so,551759,694133,27.566433333333300,late
+GSL_G.2_main_1,33037,control,did you join any club this semester?,90887,594825,27.571883333333300,late
+GSL_G.2_main_1,33038,control,Yes they’ll change your take on sweet tea,551759,90684,27.87605,late
+GSL_G.2_main_1,33039,control,taylor swift: overrated or amazing?,90684,90887,27.881516666666700,late
+GSL_G.2_main_1,33040,control,Haha that's so cool!,694133,551759,27.892266666666700,late
+GSL_G.2_main_1,33041,control,They're beautiful and they feel like bow tying up the day,696373,694133,27.89925,late
+GSL_G.2_main_1,33042,control,"im in the outdoors club, camp kesem, and im in a chamber orchestra group!",594825,90887,27.9132,late
+GSL_G.2_main_1,33043,control,"rn I'm taking a couple psych classes, calc, and econ",504005,594825,27.9217,late
+GSL_G.2_main_1,33044,control,yess my professor is Wood,90887,504005,27.93563333333330,late
+GSL_G.2_main_1,33045,control,hbu?,504005,594825,28.051516666666700,late
+GSL_G.2_main_1,33046,control,Would you consider yourself a good dancer!,551759,694133,28.100516666666700,late
+GSL_G.2_main_1,33047,control,What kind of style is your favorite,694133,551759,28.12205,late
+GSL_G.2_main_1,33048,control,?*,551759,694133,28.14741666666670,late
+GSL_G.2_main_1,33049,control,I love ballet,551759,694133,28.258333333333300,late
+GSL_G.2_main_1,33050,control,Yeah! Its like 17 surprisingly cause my school is pretty small,464297,594825,28.290033333333300,late
+GSL_G.2_main_1,33051,control,Amazing!!!,90887,90684,28.301333333333300,late
+GSL_G.2_main_1,33052,control,ohhh I've heard good things about her!,504005,90887,28.3452,late
+GSL_G.2_main_1,33053,control,I’ve done it for 15 years now,551759,694133,28.35258333333330,late
+GSL_G.2_main_1,33054,control,yay I agree!!!,90684,90887,28.430266666666700,late
+GSL_G.2_main_1,33055,control,yeah; I used to live there for bit and then I went back to visit years ago,696373,90684,28.43325,late
+GSL_G.2_main_1,33056,control,wowww,90887,594825,28.4976,late
+GSL_G.2_main_1,33057,control,I can’t even remember,551759,594825,28.525216666666700,late
+GSL_G.2_main_1,33058,control,favorite song of hers?,90684,90887,28.556383333333300,late
+GSL_G.2_main_1,33059,control,Wow! That's really impressive,694133,551759,28.562083333333300,late
+GSL_G.2_main_1,33060,control,haven't been there recently,696373,90684,28.596433333333300,late
+GSL_G.2_main_1,33061,control,"ohh cool yeah I'm mainly doing the society of women engineers and the all girls stem society and then sports for fun with friends because I was really competitive in hs but I'm looking to join more in the spring, it was just so hectic trying to find stuff at the beginning lol",976819,90684,28.6563,late
+GSL_G.2_main_1,33062,control,I also want to join a music-related club next semester,90887,594825,28.736816666666700,late
+GSL_G.2_main_1,33063,control,I just remember it was felt spicy from the amount of salt,551759,594825,28.784916666666700,late
+GSL_G.2_main_1,33064,control,"im in social psych, and this class called the dna revolution",594825,504005,28.788383333333300,late
+GSL_G.2_main_1,33065,control,What makes ballet different for you?,694133,551759,28.791966666666700,late
+GSL_G.2_main_1,33066,control,what about you?,696373,694133,28.8271,late
+GSL_G.2_main_1,33067,control,well it was nice talking to uuuu,504005,90887,28.896583333333300,late
+GSL_G.2_main_1,33068,control,thats actually despicable,594825,551759,28.98685,late
+GSL_G.2_main_1,33069,control,i see isee,504005,594825,29.086066666666700,late
+GSL_G.2_main_1,33070,control,omg that's so cool I went to Yorktown!,976819,464297,29.092966666666700,late
+GSL_G.2_main_1,33071,control,It’s just so structured,551759,694133,29.11555,late
+GSL_G.2_main_1,33072,control,social psych with mazurek?,504005,594825,29.166266666666700,late
+GSL_G.2_main_1,33073,control,heyy,661074,694133,29.286833333333300,late
+GSL_G.2_main_1,33074,control,oh cool what do you play?,594825,90887,29.300416666666700,late
+GSL_G.2_main_1,33075,control,And I love full length ballets like the nutcracker,551759,694133,29.341116666666700,late
+GSL_G.2_main_1,33076,control,im so sorry,594825,551759,29.373283333333300,late
+GSL_G.2_main_1,33077,control,do I need to be highly skilled to join the club?,90887,594825,29.378766666666700,late
+GSL_G.2_main_1,33078,control,That's a really nice way to think about it. I like sunrises because less people are around for them lol,694133,696373,29.384516666666700,late
+GSL_G.2_main_1,33079,control,Piano!!,90887,594825,29.481333333333300,late
+GSL_G.2_main_1,33080,control,yeah haha,594825,504005,29.510183333333300,late
+GSL_G.2_main_1,33081,control,Thank you for your condolences,551759,594825,29.51265,late
+GSL_G.2_main_1,33082,control,Oh cool!,464297,976819,29.531716666666700,late
+GSL_G.2_main_1,33083,control,we probably live so close to each other because my house is right by the efc metro station lol,976819,464297,29.56148333333330,late
+GSL_G.2_main_1,33084,control,me tooo,90887,504005,29.571383333333300,late
+GSL_G.2_main_1,33085,control,are you in that too?,594825,504005,29.576083333333300,late
+GSL_G.2_main_1,33086,control,haha,696373,694133,29.5913,late
+GSL_G.2_main_1,33087,control,nice talking to u,504005,594825,29.62165,late
+GSL_G.2_main_1,33088,control,Thank you!!,90887,504005,29.6645,late
+GSL_G.2_main_1,33089,control,nope not in that,504005,594825,29.679633333333300,late
+GSL_G.2_main_1,33090,control,I am in one now,551759,504005,29.70225,late
+GSL_G.2_main_1,34953,explore,hi,884325,492825,0.06413333333333330,early
+GSL_G.2_main_1,34954,explore,hello!,492825,167407,0.09183333333333330,early
+GSL_G.2_main_1,34955,explore,How are you doing?,167407,492825,0.20125,early
+GSL_G.2_main_1,34956,explore,Hi!,167407,884325,0.27703333333333300,early
+GSL_G.2_main_1,34957,explore,hello!,942298,255359,0.3022666666666670,early
+GSL_G.2_main_1,34958,explore,Hi how are you?,255359,307264,0.3385666666666670,early
+GSL_G.2_main_1,34959,explore,hello,451102,269224,0.3404333333333330,early
+GSL_G.2_main_1,34960,explore,hello,884325,167407,0.3998333333333330,early
+GSL_G.2_main_1,34961,explore,Hi!,255359,942298,0.4153833333333330,early
+GSL_G.2_main_1,34962,explore,What's up,269224,451102,0.436,early
+GSL_G.2_main_1,34963,explore,Hi!,167407,307264,0.45475,early
+GSL_G.2_main_1,34964,explore,"Im okay, just got over being sick and celbrating a bday tonight",492825,167407,0.47335,early
+GSL_G.2_main_1,34965,explore,How are you?,255359,942298,0.4740666666666670,early
+GSL_G.2_main_1,34966,explore,hi,884325,269224,0.49095,early
+GSL_G.2_main_1,34967,explore,wbu?,492825,167407,0.50605,early
+GSL_G.2_main_1,34968,explore,hi,884325,451102,0.55765,early
+GSL_G.2_main_1,34969,explore,hi,884325,942298,0.6194333333333330,early
+GSL_G.2_main_1,34970,explore,heyy,492825,884325,0.6385833333333330,early
+GSL_G.2_main_1,34971,explore,nothing much,451102,269224,0.6808166666666670,early
+GSL_G.2_main_1,34972,explore,Sorry to hear that you're sick.,167407,492825,0.6870333333333330,early
+GSL_G.2_main_1,34973,explore,what ab you,451102,269224,0.73355,early
+GSL_G.2_main_1,34974,explore,hi!,942298,884325,0.7379833333333330,early
+GSL_G.2_main_1,34975,explore,how r u doing!,492825,884325,0.7386666666666670,early
+GSL_G.2_main_1,34976,explore,what do you like to do for fun,451102,269224,0.8384,early
+GSL_G.2_main_1,34977,explore,hi!,255359,167407,0.8650833333333330,early
+GSL_G.2_main_1,34978,explore,"good, how are you?",942298,255359,0.8730666666666670,early
+GSL_G.2_main_1,34979,explore,"hey, I'm good. What about you?",307264,255359,0.8799666666666670,early
+GSL_G.2_main_1,34980,explore,How are yo udoig,167407,884325,0.883,early
+GSL_G.2_main_1,34981,explore,"good, how r u",884325,492825,0.9019666666666670,early
+GSL_G.2_main_1,34982,explore,I like to play Fortnite,269224,451102,0.9991166666666670,early
+GSL_G.2_main_1,34983,explore,good how r u,884325,167407,1.0509,early
+GSL_G.2_main_1,34984,explore,hi,942298,269224,1.0655333333333300,early
+GSL_G.2_main_1,34985,explore,"Hey, how are you doing?",307264,942298,1.1043166666666700,early
+GSL_G.2_main_1,34986,explore,good thanks! Are you taking a psych class?,255359,942298,1.1151666666666700,early
+GSL_G.2_main_1,34987,explore,hey whats up,451102,884325,1.1258833333333300,early
+GSL_G.2_main_1,34988,explore,how are you,884325,942298,1.1558,early
+GSL_G.2_main_1,34989,explore,What's up,269224,942298,1.2238,early
+GSL_G.2_main_1,34990,explore,"good now, just got over being sick lol",492825,884325,1.2350666666666700,early
+GSL_G.2_main_1,34991,explore,"good, how are you?",942298,307264,1.2560166666666700,early
+GSL_G.2_main_1,34992,explore,"Hey, how are you doing",307264,167407,1.30595,early
+GSL_G.2_main_1,34993,explore,good thanks!,255359,307264,1.3105166666666700,early
+GSL_G.2_main_1,34994,explore,how you doing,884325,451102,1.3126333333333300,early
+GSL_G.2_main_1,34995,explore,helloo,492825,981471,1.3275166666666700,early
+GSL_G.2_main_1,34996,explore,no way same!!,451102,269224,1.3798833333333300,early
+GSL_G.2_main_1,34997,explore,"good, how are you?",942298,884325,1.3802166666666700,early
+GSL_G.2_main_1,34998,explore,what's up,269224,884325,1.4185333333333300,early
+GSL_G.2_main_1,34999,explore,Hey!,307264,981471,1.4735,early
+GSL_G.2_main_1,35000,explore,"yes, are you?",942298,255359,1.4771333333333300,early
+GSL_G.2_main_1,35001,explore,heyy how are you,492825,307264,1.4881,early
+GSL_G.2_main_1,35002,explore,hii,981471,492825,1.5334,early
+GSL_G.2_main_1,35003,explore,ah that sucks but glad you're feeling better,884325,492825,1.5636833333333300,early
+GSL_G.2_main_1,35004,explore,"I'm doing well, but I have a ton of work over break",167407,492825,1.6073666666666700,early
+GSL_G.2_main_1,35005,explore,hi!,981471,307264,1.6316,early
+GSL_G.2_main_1,35006,explore,yes same i'm in social psych,255359,942298,1.6416833333333300,early
+GSL_G.2_main_1,35007,explore,hello how r u!,492825,660772,1.6466166666666700,early
+GSL_G.2_main_1,35008,explore,i caught a massive dub the other day,451102,269224,1.6616666666666700,early
+GSL_G.2_main_1,35009,explore,"nothing much, how about you?",942298,269224,1.6860166666666700,early
+GSL_G.2_main_1,35010,explore,"pretty good, ready for break",884325,942298,1.7176333333333300,early
+GSL_G.2_main_1,35011,explore,what are you studying?,255359,942298,1.7239,early
+GSL_G.2_main_1,35012,explore,That's AWESOME!,269224,451102,1.82405,early
+GSL_G.2_main_1,35013,explore,how r u,884325,269224,1.83045,early
+GSL_G.2_main_1,35014,explore,hello!,660772,942298,1.8326166666666700,early
+GSL_G.2_main_1,35015,explore,thanks haha,492825,884325,1.9025,early
+GSL_G.2_main_1,35016,explore,I'm doing good too,167407,884325,1.9206166666666700,early
+GSL_G.2_main_1,35017,explore,hi! how are you?,255359,884325,1.9367166666666700,early
+GSL_G.2_main_1,35018,explore,pretty chill honestly wby,451102,884325,1.9669166666666700,early
+GSL_G.2_main_1,35019,explore,how r uuu,492825,981471,2.0165,early
+GSL_G.2_main_1,35020,explore,I'm doing good,269224,942298,2.04345,early
+GSL_G.2_main_1,35021,explore,im good how are u,660772,492825,2.047,early
+GSL_G.2_main_1,35022,explore,that's good,884325,167407,2.064416666666670,early
+GSL_G.2_main_1,35023,explore,Decent! dying because of the workload lol,307264,942298,2.0914166666666700,early
+GSL_G.2_main_1,35024,explore,"im in research methods! I think I am leaning towards behavioral neuroscience, hbu",942298,255359,2.14055,early
+GSL_G.2_main_1,35025,explore,what do you like to do for fun?,269224,942298,2.1491833333333300,early
+GSL_G.2_main_1,35026,explore,"I'm chillin too, ready for break",884325,451102,2.2883666666666700,early
+GSL_G.2_main_1,35027,explore,aww thats no fun,492825,167407,2.2892166666666700,early
+GSL_G.2_main_1,35028,explore,"I'm doing well, but I am a bit tired",167407,307264,2.290366666666670,early
+GSL_G.2_main_1,35029,explore,Love your avatar!,307264,981471,2.3269166666666700,early
+GSL_G.2_main_1,35030,explore,How are you doig,167407,307264,2.3735666666666700,early
+GSL_G.2_main_1,35031,explore,are you going home for break?,492825,167407,2.3754666666666700,early
+GSL_G.2_main_1,35032,explore,I'm doing good,269224,884325,2.4149666666666700,early
+GSL_G.2_main_1,35033,explore,"hey, im good",884325,255359,2.4416333333333300,early
+GSL_G.2_main_1,35034,explore,heyyy,492825,269224,2.4461833333333300,early
+GSL_G.2_main_1,35035,explore,hello hows it going>?,660772,307264,2.4559166666666700,early
+GSL_G.2_main_1,35036,explore,how are you,884325,255359,2.4886833333333300,early
+GSL_G.2_main_1,35037,explore,helloo,492825,451102,2.520033333333330,early
+GSL_G.2_main_1,35038,explore,Hi! How are you?,167407,255359,2.5211,early
+GSL_G.2_main_1,35039,explore,How about you?,269224,884325,2.5494333333333300,early
+GSL_G.2_main_1,35040,explore,hiii,492825,942298,2.5830333333333300,early
+GSL_G.2_main_1,35041,explore,nah fr i need it lol,451102,884325,2.5834,early
+GSL_G.2_main_1,35042,explore,that's super cool! Rn I'm pre-comm,255359,942298,2.6321666666666700,early
+GSL_G.2_main_1,35043,explore,What's up,269224,492825,2.64435,early
+GSL_G.2_main_1,35044,explore,"im goood, how are uu",981471,492825,2.681033333333330,early
+GSL_G.2_main_1,35045,explore,Yep,167407,492825,2.7052,early
+GSL_G.2_main_1,35046,explore,Are u a first year?,255359,942298,2.71715,early
+GSL_G.2_main_1,35047,explore,Are you?,167407,492825,2.739516666666670,early
+GSL_G.2_main_1,35048,explore,"I love to run, and I'm a dancer lol. I also love getting coffee and hanging out with friends, hbu?",942298,269224,2.7569833333333300,early
+GSL_G.2_main_1,35049,explore,hey whats up,451102,492825,2.76335,early
+GSL_G.2_main_1,35050,explore,What's up,269224,981471,2.7756333333333300,early
+GSL_G.2_main_1,35051,explore,pretty good too,884325,269224,2.8274,early
+GSL_G.2_main_1,35052,explore,good since its friday loll,492825,660772,2.828516666666670,early
+GSL_G.2_main_1,35053,explore,Hi!,167407,660772,2.87855,early
+GSL_G.2_main_1,35054,explore,What's up,269224,167407,2.8787,early
+GSL_G.2_main_1,35055,explore,hello!,660772,451102,2.9225166666666700,early
+GSL_G.2_main_1,35056,explore,"ooo okay, and yes! are you?",942298,255359,2.9552,early
+GSL_G.2_main_1,35057,explore,hi!,942298,660772,3.0344,early
+GSL_G.2_main_1,35058,explore,oh yeah! poggers,451102,269224,3.0344333333333300,early
+GSL_G.2_main_1,35059,explore,Hi!,167407,269224,3.050116666666670,early
+GSL_G.2_main_1,35060,explore,good thanks! what are you studying?,255359,884325,3.0725166666666700,early
+GSL_G.2_main_1,35061,explore,good since its friday woo haha,492825,981471,3.0904666666666700,early
+GSL_G.2_main_1,35062,explore,same im sick of school,884325,451102,3.1044666666666700,early
+GSL_G.2_main_1,35063,explore,Hi!,167407,451102,3.1376666666666700,early
+GSL_G.2_main_1,35064,explore,so real,942298,307264,3.14225,early
+GSL_G.2_main_1,35065,explore,Hi!,167407,942298,3.23895,early
+GSL_G.2_main_1,35066,explore,biology what about you,884325,255359,3.2531333333333300,early
+GSL_G.2_main_1,35067,explore,helloo,492825,255359,3.2728333333333300,early
+GSL_G.2_main_1,35068,explore,hey whats up!,451102,167407,3.2871333333333300,early
+GSL_G.2_main_1,35069,explore,yes same!,255359,942298,3.3023666666666700,early
+GSL_G.2_main_1,35070,explore,same I'm so tired! I literally just had a celsius and I already want another one,307264,167407,3.30975,early
+GSL_G.2_main_1,35071,explore,how many finals do you have?,942298,307264,3.34945,early
+GSL_G.2_main_1,35072,explore,what r u studying,884325,492825,3.3867666666666700,early
+GSL_G.2_main_1,35073,explore,"hi, how are you",451102,660772,3.448916666666670,early
+GSL_G.2_main_1,35074,explore,Love yours too! I feel like this is one of the weirdest studies I've done so far,981471,307264,3.4512666666666700,early
+GSL_G.2_main_1,35075,explore,finally starting break :),660772,492825,3.4586333333333300,early
+GSL_G.2_main_1,35076,explore,How do u like uva so far?,255359,942298,3.4661666666666700,early
+GSL_G.2_main_1,35077,explore,chillin cuz its friday wppp,492825,451102,3.6038,early
+GSL_G.2_main_1,35078,explore,"Lately, mostly just work",167407,451102,3.618716666666670,early
+GSL_G.2_main_1,35079,explore,like 4 and 1 paper,307264,942298,3.640833333333330,early
+GSL_G.2_main_1,35080,explore,how are u?,660772,942298,3.687683333333330,early
+GSL_G.2_main_1,35081,explore,wby?,307264,942298,3.6902,early
+GSL_G.2_main_1,35082,explore,How are you doing?,167407,451102,3.7048833333333300,early
+GSL_G.2_main_1,35083,explore,what about u?,492825,451102,3.711,early
+GSL_G.2_main_1,35084,explore,agree. are you a first year?,942298,884325,3.7576666666666700,early
+GSL_G.2_main_1,35085,explore,cool I'm pre-comm right now,255359,884325,3.7584166666666700,early
+GSL_G.2_main_1,35086,explore,are you a first year?,255359,884325,3.83625,early
+GSL_G.2_main_1,35087,explore,"That's awesome, I'm a big swimmer and like to workout on my free time. I also like to get coffee or food will friends",269224,942298,3.87305,early
+GSL_G.2_main_1,35088,explore,Helllo!! how are u,660772,167407,3.8955,early
+GSL_G.2_main_1,35089,explore,omg I only have 2,942298,307264,3.917883333333330,early
+GSL_G.2_main_1,35090,explore,godspeed lol,942298,307264,3.9808333333333300,early
+GSL_G.2_main_1,35091,explore,yesss but I still can't believe that we have class Monday and Tuesday,981471,492825,3.9887166666666700,early
+GSL_G.2_main_1,35092,explore,"its friday so im chillin, wbu?",492825,269224,4.024916666666670,early
+GSL_G.2_main_1,35093,explore,hi,942298,492825,4.0575,early
+GSL_G.2_main_1,35094,explore,with*,269224,942298,4.058883333333330,early
+GSL_G.2_main_1,35095,explore,hi!,255359,492825,4.09105,early
+GSL_G.2_main_1,35096,explore,hey how are u!,660772,981471,4.1179,early
+GSL_G.2_main_1,35097,explore,how are you?,255359,492825,4.138716666666670,early
+GSL_G.2_main_1,35098,explore,also very glad its friday lmao,451102,492825,4.205666666666670,early
+GSL_G.2_main_1,35099,explore,"good, hbu?",942298,660772,4.237316666666670,early
+GSL_G.2_main_1,35100,explore,like :/,981471,492825,4.248866666666670,early
+GSL_G.2_main_1,35101,explore,hows it going!,660772,884325,4.2497,early
+GSL_G.2_main_1,35102,explore,"yess, are you planning anything for break?",492825,660772,4.26225,early
+GSL_G.2_main_1,35103,explore,its been a long week,451102,492825,4.267133333333330,early
+GSL_G.2_main_1,35104,explore,good and you?,255359,167407,4.286733333333330,early
+GSL_G.2_main_1,35105,explore,How are you doing?,269224,167407,4.329366666666670,early
+GSL_G.2_main_1,35106,explore,"I can relate, classes have me addicted to caffeine.",167407,307264,4.38745,early
+GSL_G.2_main_1,35107,explore,I know! I dont know what they are trying to research here but definitely interesting,307264,981471,4.44575,early
+GSL_G.2_main_1,35108,explore,nursing and minoring in art,492825,884325,4.4754,early
+GSL_G.2_main_1,35109,explore,what about u?,492825,884325,4.591516666666670,early
+GSL_G.2_main_1,35110,explore,"its very different than what im used to, for sure. hbu?",942298,255359,4.635283333333330,early
+GSL_G.2_main_1,35111,explore,Heyy I am good! how are you?,307264,492825,4.639116666666670,early
+GSL_G.2_main_1,35112,explore,"I'm doing well, how are you?",167407,660772,4.663233333333330,early
+GSL_G.2_main_1,35113,explore,hi,942298,167407,4.7113,early
+GSL_G.2_main_1,35114,explore,"hii, I'm good! how are u??",981471,660772,4.76395,early
+GSL_G.2_main_1,35115,explore,really good abt to start break :),660772,942298,4.777466666666670,early
+GSL_G.2_main_1,35116,explore,frr bruh I aint going on tuesday tho lol,492825,981471,4.844383333333330,early
+GSL_G.2_main_1,35117,explore,pretty good honestly,451102,167407,4.9256,early
+GSL_G.2_main_1,35118,explore,"I'm doing well I guess, a bit tired.",167407,255359,4.945166666666670,early
+GSL_G.2_main_1,35119,explore,all my classes are cancelled luckily that day,492825,981471,4.998783333333330,early
+GSL_G.2_main_1,35120,explore,"wait that's cool, never heard of that combo",884325,492825,5.042933333333330,early
+GSL_G.2_main_1,35121,explore,me too! I'm from miami lol so kind of far. where are u originally from?,255359,942298,5.04445,early
+GSL_G.2_main_1,35122,explore,did you swim in high school?,942298,269224,5.0533,early
+GSL_G.2_main_1,35123,explore,biology,884325,492825,5.073916666666670,early
+GSL_G.2_main_1,35124,explore,just schoolwork and stuff,451102,167407,5.089266666666670,early
+GSL_G.2_main_1,35125,explore,"Same, got any fun plans tonight?",269224,492825,5.091266666666670,early
+GSL_G.2_main_1,35126,explore,How are doing?,167407,942298,5.10435,early
+GSL_G.2_main_1,35127,explore,Decent I think I just need more caffeine in my system,307264,660772,5.11545,early
+GSL_G.2_main_1,35128,explore,"good, how r u",884325,660772,5.1792,early
+GSL_G.2_main_1,35129,explore,yeah same lol,255359,167407,5.180316666666670,early
+GSL_G.2_main_1,35130,explore,How are you doing?,307264,660772,5.246316666666670,early
+GSL_G.2_main_1,35131,explore,im doing good finally starting break :),660772,167407,5.263966666666670,early
+GSL_G.2_main_1,35132,explore,What do you like to do for fun?,269224,884325,5.2936,early
+GSL_G.2_main_1,35133,explore,luckily thanksgiving break is soon,255359,167407,5.3334166666666700,early
+GSL_G.2_main_1,35134,explore,"southwest va, so not too far, but im from a very small and rural area",942298,255359,5.342183333333330,early
+GSL_G.2_main_1,35135,explore,im good cuz its friday finally lol,492825,255359,5.3593166666666700,early
+GSL_G.2_main_1,35136,explore,"gotcha, no im a second year",884325,255359,5.391116666666670,early
+GSL_G.2_main_1,35137,explore,what about you?,492825,255359,5.42135,early
+GSL_G.2_main_1,35138,explore,"I'm doing well, but a bit tired, wbu?",167407,269224,5.4252666666666700,early
+GSL_G.2_main_1,35139,explore,what about you,884325,255359,5.446233333333330,early
+GSL_G.2_main_1,35140,explore,do u have any fun plans?,255359,167407,5.4496,early
+GSL_G.2_main_1,35141,explore,omg im jealous,307264,942298,5.4649,early
+GSL_G.2_main_1,35142,explore,"good, hbu?",942298,167407,5.516216666666670,early
+GSL_G.2_main_1,35143,explore,whats your major,307264,942298,5.52995,early
+GSL_G.2_main_1,35144,explore,ooh i love bio,492825,884325,5.55415,early
+GSL_G.2_main_1,35145,explore,"no second, what abt you",884325,942298,5.6036166666666700,early
+GSL_G.2_main_1,35146,explore,fr,451102,884325,5.637933333333330,early
+GSL_G.2_main_1,35147,explore,"Ya, I did competitive swim and high school swim",269224,942298,5.66375,early
+GSL_G.2_main_1,35148,explore,what major are you,451102,884325,5.700583333333330,early
+GSL_G.2_main_1,35149,explore,same here haha. I came home last night,942298,660772,5.764966666666670,early
+GSL_G.2_main_1,35150,explore,Yeah I'm excited for break too,167407,660772,5.840216666666670,early
+GSL_G.2_main_1,35151,explore,I like to watch movies and listen to music,884325,269224,5.84985,early
+GSL_G.2_main_1,35152,explore,"makes sense ngl i use to be such a caffeine head, but im good :)",660772,307264,5.880433333333330,early
+GSL_G.2_main_1,35153,explore,what abt you,884325,269224,5.894266666666670,early
+GSL_G.2_main_1,35154,explore,got it lol for me it was almost the other way around,255359,942298,5.90375,early
+GSL_G.2_main_1,35155,explore,Did you run or do dance in high school?,269224,942298,5.90775,early
+GSL_G.2_main_1,35156,explore,oh that's fun!,942298,269224,5.942083333333330,early
+GSL_G.2_main_1,35157,explore,excited for break?,660772,307264,5.972533333333330,early
+GSL_G.2_main_1,35158,explore,and yeah I just love art as well as science so doing both haha,492825,884325,5.978416666666670,early
+GSL_G.2_main_1,35159,explore,I know right! i dont know why but this semester is so hectic,307264,167407,5.991366666666670,early
+GSL_G.2_main_1,35160,explore,Hi!,167407,981471,6.005433333333330,early
+GSL_G.2_main_1,35161,explore,"yes, both!",942298,269224,6.00785,early
+GSL_G.2_main_1,35162,explore,do you have any fun plans for thanksgiving?,255359,942298,6.02485,early
+GSL_G.2_main_1,35163,explore,"biology, what abt you",884325,451102,6.063016666666670,early
+GSL_G.2_main_1,35164,explore,how r u doingg,492825,942298,6.15415,early
+GSL_G.2_main_1,35165,explore,I danced for 14 years and ran track for 7 haha,942298,269224,6.311616666666670,early
+GSL_G.2_main_1,35166,explore,I feel that,269224,167407,6.361116666666670,early
+GSL_G.2_main_1,35167,explore,fr haha esp since finals are so soon after break,492825,451102,6.386566666666670,early
+GSL_G.2_main_1,35168,explore,So lucky the train was sold out so im going tomorrow,660772,942298,6.386683333333330,early
+GSL_G.2_main_1,35169,explore,has it been difficult?,884325,492825,6.42825,early
+GSL_G.2_main_1,35170,explore,nice i'm a first year,255359,884325,6.429883333333330,early
+GSL_G.2_main_1,35171,explore,Getting up in the mornings can be hard,269224,167407,6.474066666666670,early
+GSL_G.2_main_1,35172,explore,"First semester is meant to be rough, I just hope second semester is better",167407,307264,6.53245,early
+GSL_G.2_main_1,35173,explore,went from e school to math lmao,451102,884325,6.561733333333330,early
+GSL_G.2_main_1,35174,explore,do you have any fun plans for thansgiving?,255359,884325,6.565633333333330,early
+GSL_G.2_main_1,35175,explore,any plans for break?,660772,167407,6.65655,early
+GSL_G.2_main_1,35176,explore,biology is sick tho,451102,884325,6.6565666666666700,early
+GSL_G.2_main_1,35177,explore,Yess I need a break so bad. I am going to DC with a friend who is visiting from home,307264,660772,6.734733333333330,early
+GSL_G.2_main_1,35178,explore,yeah! celebrating a birthday!,492825,269224,6.770133333333330,early
+GSL_G.2_main_1,35179,explore,same lol,255359,492825,6.794116666666670,early
+GSL_G.2_main_1,35180,explore,"fun, how do u like uva so far",884325,255359,6.805783333333330,early
+GSL_G.2_main_1,35181,explore,what are your plans?,307264,660772,6.8303666666666700,early
+GSL_G.2_main_1,35182,explore,what about you? anything u lookin forward to?,492825,269224,6.9923166666666700,early
+GSL_G.2_main_1,35183,explore,I've been looking forward to this weekend cause I finally go home for thansgiving,255359,492825,7.017633333333330,early
+GSL_G.2_main_1,35184,explore,"im good, finally done w exams besides the finals",660772,884325,7.030983333333330,early
+GSL_G.2_main_1,35185,explore,"just seeing my family and being home, I need it lol wbu",884325,255359,7.03175,early
+GSL_G.2_main_1,35186,explore,"I'm just gonna visit family and friends, nothing too special.",167407,660772,7.08425,early
+GSL_G.2_main_1,35187,explore,"yes! im seeing some friends that I haven't seen since August, and my long distance boyfriend will be home next week, and of course it's thanksgiving lol. hbu?",942298,255359,7.0860666666666700,early
+GSL_G.2_main_1,35188,explore,Are you a first year?,307264,167407,7.090916666666670,early
+GSL_G.2_main_1,35189,explore,"yeah same, I wonder what this is supposed to show them",981471,307264,7.098016666666670,early
+GSL_G.2_main_1,35190,explore,do you have any fun plans for break?,255359,492825,7.1294,early
+GSL_G.2_main_1,35191,explore,excited for second semester?,660772,884325,7.208266666666670,early
+GSL_G.2_main_1,35192,explore,How are you spending break?,167407,660772,7.212266666666670,early
+GSL_G.2_main_1,35193,explore,Heyy how's it going?,307264,269224,7.272516666666670,early
+GSL_G.2_main_1,35194,explore,where are you from?,942298,660772,7.311333333333330,early
+GSL_G.2_main_1,35195,explore,yess me too haha im flying back home,492825,255359,7.346133333333330,early
+GSL_G.2_main_1,35196,explore,"damn math is impressive, couldn't do it for 4 years",884325,451102,7.36555,early
+GSL_G.2_main_1,35197,explore,Yeah haha,167407,307264,7.409433333333330,early
+GSL_G.2_main_1,35198,explore,get to see my cat again lol,492825,255359,7.458366666666670,early
+GSL_G.2_main_1,35199,explore,I love it but it's def different to what I am used to,255359,884325,7.47485,early
+GSL_G.2_main_1,35200,explore,"it's alright, too much work",884325,451102,7.526583333333330,early
+GSL_G.2_main_1,35201,explore,Are you?,167407,307264,7.581,early
+GSL_G.2_main_1,35202,explore,"probably behavioral neuroscience, hbu",942298,307264,7.631833333333330,early
+GSL_G.2_main_1,35203,explore,Maybe going to NY but i think it would be crazy to go on black friday,660772,492825,7.656116666666670,early
+GSL_G.2_main_1,35204,explore,hbu?,660772,492825,7.69065,early
+GSL_G.2_main_1,35205,explore,That's awesome! What's your favorite type of dance and track event?,269224,942298,7.70485,early
+GSL_G.2_main_1,35206,explore,I find nursing a lot easier than art actually,492825,884325,7.748183333333330,early
+GSL_G.2_main_1,35207,explore,first!,942298,884325,7.7603333333333300,early
+GSL_G.2_main_1,35208,explore,i prob wont be able to lmaoo,451102,884325,7.7681,early
+GSL_G.2_main_1,35209,explore,Same lol I have not been home since move in so I'm super excited,255359,884325,7.792466666666670,early
+GSL_G.2_main_1,35210,explore,good hbu,942298,492825,7.853083333333330,early
+GSL_G.2_main_1,35211,explore,yeah thats what ive heard,451102,884325,7.86005,early
+GSL_G.2_main_1,35212,explore,its cool stuff tho,451102,884325,7.915516666666670,early
+GSL_G.2_main_1,35213,explore,but not really :) i really enjoy both,492825,884325,7.946283333333330,early
+GSL_G.2_main_1,35214,explore,very practical,451102,884325,7.981216666666670,early
+GSL_G.2_main_1,35215,explore,"yes I am, but not for the first couple of cold months",884325,660772,8.041316666666670,early
+GSL_G.2_main_1,35216,explore,I am guessing to see our extroversion level when we dont know who we are talking to,307264,981471,8.0414,early
+GSL_G.2_main_1,35217,explore,My older brother is also getting married this week so I have been looking forward to it,255359,884325,8.04145,early
+GSL_G.2_main_1,35218,explore,hows bio been?,492825,884325,8.056966666666670,early
+GSL_G.2_main_1,35219,explore,I'm just going to visit family and friends. Do you have plans for break?,167407,255359,8.1108,early
+GSL_G.2_main_1,35220,explore,That's awesome! I just had my birthday a couple days ago,269224,492825,8.120316666666670,early
+GSL_G.2_main_1,35221,explore,I wish my classes were canceled but yeah im not going on Tuesday either lol,981471,492825,8.13445,early
+GSL_G.2_main_1,35222,explore,oh yeah not excited ab that,451102,492825,8.198966666666670,early
+GSL_G.2_main_1,35223,explore,"I am a contemporary girl, and I ran hurdles!",942298,269224,8.2069,early
+GSL_G.2_main_1,35224,explore,that's good,884325,492825,8.207933333333330,early
+GSL_G.2_main_1,35225,explore,Same here,167407,942298,8.328166666666670,early
+GSL_G.2_main_1,35226,explore,"it's been fine, a lot of information to take it lol",884325,492825,8.3561,early
+GSL_G.2_main_1,35227,explore,I got a Friendsgiving tonight so I'm looking forward to that,269224,492825,8.369733333333330,early
+GSL_G.2_main_1,35228,explore,ohh yeah NY black friday is crazyyy,492825,660772,8.379866666666670,early
+GSL_G.2_main_1,35229,explore,niceee I never had any pets growing up bc my family is super allergic but I am sure it is great to see them again,255359,492825,8.574016666666670,early
+GSL_G.2_main_1,35230,explore,"What's up, I'm doing good",269224,307264,8.581983333333330,early
+GSL_G.2_main_1,35231,explore,Are you looking forward to break?,167407,942298,8.622933333333330,early
+GSL_G.2_main_1,35232,explore,Im going to Chicago to see my family (and cat lol),492825,660772,8.625783333333330,early
+GSL_G.2_main_1,35233,explore,How are you?,269224,307264,8.674366666666670,early
+GSL_G.2_main_1,35234,explore,"thats nice, also planning to do the same honestly miss my cat.",660772,167407,8.71195,early
+GSL_G.2_main_1,35235,explore,"wait that's so exciting, are you in the wedding?",884325,255359,8.89165,early
+GSL_G.2_main_1,35236,explore,Happy late Birthday!!,492825,269224,8.914166666666670,early
+GSL_G.2_main_1,35237,explore,Pre comm! I want to concentrate in finance and do a minor in CS prob or just double concentrate with Data Science,307264,942298,8.96475,early
+GSL_G.2_main_1,35238,explore,"yes, very much so. I actually got home last night lol. are you?",942298,167407,8.982216666666670,early
+GSL_G.2_main_1,35239,explore,"Yeah, I'm mostly a later classes person. Are you?",167407,269224,9.004783333333330,early
+GSL_G.2_main_1,35240,explore,are you in or out of state,884325,255359,9.004783333333330,early
+GSL_G.2_main_1,35241,explore,That's cool! I like to workout and go out with friends,269224,884325,9.053216666666670,early
+GSL_G.2_main_1,35242,explore,and we love a good Friendsgiving,492825,269224,9.0828,early
+GSL_G.2_main_1,35243,explore,aww yay! I am also seeing my long distance boyfriend so I'm excited,255359,942298,9.116733333333330,early
+GSL_G.2_main_1,35244,explore,what are you studyig,884325,942298,9.149433333333330,early
+GSL_G.2_main_1,35245,explore,you making anything for it?,492825,269224,9.165683333333330,early
+GSL_G.2_main_1,35246,explore,true but,492825,451102,9.274033333333330,early
+GSL_G.2_main_1,35247,explore,My older brother is also getting married this week so I have been looking forward to that,255359,942298,9.3171,early
+GSL_G.2_main_1,35248,explore,"Oh lucky, I wish I was home now.",167407,942298,9.362616666666670,early
+GSL_G.2_main_1,35249,explore,idk if this identifiable information but lets say im like 3 hrs away from here,660772,942298,9.439416666666670,early
+GSL_G.2_main_1,35250,explore,break itself should be fun lol,492825,451102,9.44655,early
+GSL_G.2_main_1,35251,explore,"wow, you're smart lol. im in intro data science now, and it's hard",942298,307264,9.4631,early
+GSL_G.2_main_1,35252,explore,got any fun plans?,492825,451102,9.510416666666670,early
+GSL_G.2_main_1,35253,explore,any plans for break?,660772,942298,9.529116666666670,early
+GSL_G.2_main_1,35254,explore,why are you in psych?,942298,307264,9.570616666666670,early
+GSL_G.2_main_1,35255,explore,i'm from miami florida lol so a bit far,255359,884325,9.571266666666670,early
+GSL_G.2_main_1,35256,explore,"yeah I guess its cool, im pre-med so it helps",884325,451102,9.622283333333330,early
+GSL_G.2_main_1,35257,explore,I'm looking forward to break too. I need the sleep,167407,942298,9.62525,early
+GSL_G.2_main_1,35258,explore,I am too haha,942298,660772,9.7408,early
+GSL_G.2_main_1,35259,explore,"pretty good, excited to go home for break",492825,942298,9.791183333333330,early
+GSL_G.2_main_1,35260,explore,Awww what's your cat's name?,167407,660772,9.892716666666670,early
+GSL_G.2_main_1,35261,explore,"dang ok, you must be ready to be home lol",884325,255359,9.917516666666670,early
+GSL_G.2_main_1,35262,explore,oh my days thats so far :(,660772,492825,9.959716666666670,early
+GSL_G.2_main_1,35263,explore,you going anywhere for break?,492825,942298,9.997366666666670,early
+GSL_G.2_main_1,35264,explore,I am a second year!,307264,167407,10.016916666666700,middle
+GSL_G.2_main_1,35265,explore,They're doing two weddings and this one is just the courthouse wedding so it's not super typical,255359,884325,10.05385,middle
+GSL_G.2_main_1,35266,explore,"yes! im seeing some friends and my long distance boyfriend, and of course its thanksgiving lol",942298,660772,10.115116666666700,middle
+GSL_G.2_main_1,35267,explore,hbu,942298,660772,10.130483333333300,middle
+GSL_G.2_main_1,35268,explore,Thank you! I'm making banana pudding,269224,492825,10.137316666666700,middle
+GSL_G.2_main_1,35269,explore,this study in person would we so awkward lol. I feel like I would run out of things to talk to if we were in person,981471,307264,10.151733333333300,middle
+GSL_G.2_main_1,35270,explore,yess lol,255359,884325,10.15175,middle
+GSL_G.2_main_1,35271,explore,did you feel homesick coming here ?,660772,492825,10.1771,middle
+GSL_G.2_main_1,35272,explore,Ohhh,167407,307264,10.191383333333300,middle
+GSL_G.2_main_1,35273,explore,sounds fun!,884325,269224,10.271066666666700,middle
+GSL_G.2_main_1,35274,explore,How is second year going?,167407,307264,10.271466666666700,middle
+GSL_G.2_main_1,35275,explore,I haven't been home since august,255359,884325,10.28755,middle
+GSL_G.2_main_1,35276,explore,"probably behavioral neuroscience, hbu",942298,884325,10.314833333333300,middle
+GSL_G.2_main_1,35277,explore,Fine! hella sleepy tho,307264,269224,10.329183333333300,middle
+GSL_G.2_main_1,35278,explore,what year are you,884325,269224,10.360633333333300,middle
+GSL_G.2_main_1,35279,explore,"yeah! it sucks theyre allergic, I am too but I love animals so I deal haha",492825,255359,10.398583333333300,middle
+GSL_G.2_main_1,35280,explore,hbu?,255359,884325,10.434266666666700,middle
+GSL_G.2_main_1,35281,explore,I just got home last night actually haha,942298,492825,10.478833333333300,middle
+GSL_G.2_main_1,35282,explore,"dang that's cool, biology",884325,942298,10.535,middle
+GSL_G.2_main_1,35283,explore,i absolutely hate this weather shift like its cold in the morning and at night but weirdly warm in the afternoon,660772,884325,10.660166666666700,middle
+GSL_G.2_main_1,35284,explore,Are you looking forward to break?,167407,451102,10.802166666666700,middle
+GSL_G.2_main_1,35285,explore,"omg yay, that's so exciting! my older brother got married last summer haha",942298,255359,10.896,middle
+GSL_G.2_main_1,35286,explore,"For a bit, but my sister lives in Maryland and I really like teh independence so its been alright :)",492825,660772,10.934816666666700,middle
+GSL_G.2_main_1,35287,explore,that sounds nice kind of doing the same but going to NY,660772,307264,11.000533333333300,middle
+GSL_G.2_main_1,35288,explore,I am enjoying my classes ngl and make some new friends so have been exploring cville more this sem,307264,167407,11.047933333333300,middle
+GSL_G.2_main_1,35289,explore,plus making friends has been fun,492825,660772,11.056166666666700,middle
+GSL_G.2_main_1,35290,explore,Are you looking forward to break?,167407,884325,11.06535,middle
+GSL_G.2_main_1,35291,explore,gotcha must be nice to see family tho regardless,884325,255359,11.0858,middle
+GSL_G.2_main_1,35292,explore,i'm sure it's super worth it,255359,492825,11.086233333333300,middle
+GSL_G.2_main_1,35293,explore,oh okay. are you pre med?,942298,884325,11.10715,middle
+GSL_G.2_main_1,35294,explore,i just think it might not be a good idea with black friday tho,660772,307264,11.215266666666700,middle
+GSL_G.2_main_1,35295,explore,im from in state so I've gone home like twice,884325,255359,11.230316666666700,middle
+GSL_G.2_main_1,35296,explore,where are u originally from?,255359,492825,11.27145,middle
+GSL_G.2_main_1,35297,explore,or pre health I guess,942298,884325,11.296466666666700,middle
+GSL_G.2_main_1,35298,explore,That's really nice!,167407,307264,11.316283333333300,middle
+GSL_G.2_main_1,35299,explore,UVA attendence on tuesday gonna be like 10 people lol,492825,981471,11.4309,middle
+GSL_G.2_main_1,35300,explore,yes! I need a break so bad lol.,884325,167407,11.552766666666700,middle
+GSL_G.2_main_1,35301,explore,yeah that's super nice,255359,884325,11.5935,middle
+GSL_G.2_main_1,35302,explore,"Oh shoot, I assume that's very challenging lol",269224,942298,11.604066666666700,middle
+GSL_G.2_main_1,35303,explore,so real. sleeping In your own bed at home is life changing haha,942298,167407,11.63185,middle
+GSL_G.2_main_1,35304,explore,just going home to hang out w family,451102,492825,11.659566666666700,middle
+GSL_G.2_main_1,35305,explore,exciting regardless,255359,884325,11.660816666666700,middle
+GSL_G.2_main_1,35306,explore,yeah I bet,492825,884325,11.675816666666700,middle
+GSL_G.2_main_1,35307,explore,yeah im pre-dental!,884325,942298,11.721533333333300,middle
+GSL_G.2_main_1,35308,explore,and all my high school boys,451102,492825,11.777016666666700,middle
+GSL_G.2_main_1,35309,explore,But i hope its fun yeah?,492825,884325,11.858416666666700,middle
+GSL_G.2_main_1,35310,explore,awww yay! I'm sure it was so special,255359,942298,11.931966666666700,middle
+GSL_G.2_main_1,35311,explore,they were so fun. they definitely just take a lot of practice to learn and not be afraid of haha,942298,269224,11.950883333333300,middle
+GSL_G.2_main_1,35312,explore,wanting to go to NY over break but i think it might not be such a good idea with black friday going on XD,660772,942298,12.040783333333300,middle
+GSL_G.2_main_1,35313,explore,that is cool,451102,884325,12.081683333333300,middle
+GSL_G.2_main_1,35314,explore,ahah idk about that. I just though it would be interesting to learn the science behind behaviour n why people act a certain way,307264,942298,12.1508,middle
+GSL_G.2_main_1,35315,explore,"When I ran track way long ago, I always did the mile",269224,942298,12.2485,middle
+GSL_G.2_main_1,35316,explore,thought*,307264,942298,12.286833333333300,middle
+GSL_G.2_main_1,35317,explore,Im in microbiolofy but I don't know how similar that is to bio major courses lol,492825,884325,12.292716666666700,middle
+GSL_G.2_main_1,35318,explore,are you interested in a certain type of doctor or just more general,451102,884325,12.30675,middle
+GSL_G.2_main_1,35319,explore,What about you,307264,942298,12.419133333333300,middle
+GSL_G.2_main_1,35320,explore,did he do a destination wedding or just one at home? My brother is doing both a courthouse wedding and a party this summer lol so extra,255359,942298,12.421516666666700,middle
+GSL_G.2_main_1,35321,explore,I agree,167407,942298,12.423166666666700,middle
+GSL_G.2_main_1,35322,explore,"it is, home is only 2 hours away so I don't think its bad",884325,255359,12.483183333333300,middle
+GSL_G.2_main_1,35323,explore,"it was a lot of fun. if you could go anywhere in the world, where would you go",942298,255359,12.514183333333300,middle
+GSL_G.2_main_1,35324,explore,Im from Chicago!,492825,255359,12.602733333333300,middle
+GSL_G.2_main_1,35325,explore,The dorm beds feel like they're getting less comfortable every day.,167407,942298,12.667583333333300,middle
+GSL_G.2_main_1,35326,explore,any plans for break/,942298,167407,12.685366666666700,middle
+GSL_G.2_main_1,35327,explore,and def super worth it haha,492825,255359,12.694983333333300,middle
+GSL_G.2_main_1,35328,explore,I want to be a dermatologist,884325,451102,12.70575,middle
+GSL_G.2_main_1,35329,explore,or not doctor but yk what i mean lol,451102,884325,12.720033333333300,middle
+GSL_G.2_main_1,35330,explore,?**,942298,167407,12.74535,middle
+GSL_G.2_main_1,35331,explore,Leo hes an orange cat kind of regret not naming him simba? wbu any pets?,660772,167407,12.801716666666700,middle
+GSL_G.2_main_1,35332,explore,that's so real lol,942298,167407,12.814533333333300,middle
+GSL_G.2_main_1,35333,explore,what about you?,492825,255359,12.815666666666700,middle
+GSL_G.2_main_1,35334,explore,"Same, I gotta make sure I don't get stuck in the super early classes or else that'd be awful",269224,167407,12.90025,middle
+GSL_G.2_main_1,35335,explore,How has your semester been?,307264,167407,12.928383333333300,middle
+GSL_G.2_main_1,35336,explore,wooo hows that been,492825,942298,12.995133333333300,middle
+GSL_G.2_main_1,35337,explore,oh thats fire,451102,884325,13.014366666666700,middle
+GSL_G.2_main_1,35338,explore,I could never. I am not a distance girl,942298,269224,13.039416666666700,middle
+GSL_G.2_main_1,35339,explore,niceee how fun! yes I'm super excited because I have not been home since august and my older brother is getting married next saturday :),255359,167407,13.062283333333300,middle
+GSL_G.2_main_1,35340,explore,I think I'm just going to visit family and friends. Do you have any plans for break?,167407,942298,13.093733333333300,middle
+GSL_G.2_main_1,35341,explore,"it's probably similar, microbiology sounds complicated",884325,492825,13.119366666666700,middle
+GSL_G.2_main_1,35342,explore,they make bank and it seems interesting,451102,884325,13.19875,middle
+GSL_G.2_main_1,35343,explore,chillinn nice,492825,451102,13.225633333333300,middle
+GSL_G.2_main_1,35344,explore,I did that last year,307264,660772,13.2307,middle
+GSL_G.2_main_1,35345,explore,first year,269224,884325,13.239483333333300,middle
+GSL_G.2_main_1,35346,explore,how about you?,269224,884325,13.3404,middle
+GSL_G.2_main_1,35347,explore,are you from in or out of state?,255359,167407,13.371383333333300,middle
+GSL_G.2_main_1,35348,explore,"same here haha. Im seeing my friends I haven't seen since August, so Im really looking forward to that",942298,167407,13.4073,middle
+GSL_G.2_main_1,35349,explore,Ill be doing that when I get home too,492825,451102,13.412183333333300,middle
+GSL_G.2_main_1,35350,explore,"yeah, im always dressed for the cold but im sweating by the time im walking home",884325,660772,13.452733333333300,middle
+GSL_G.2_main_1,35351,explore,I feel that lol,269224,307264,13.5519,middle
+GSL_G.2_main_1,35352,explore,Avoid times square it is SO crowded,307264,660772,13.554666666666700,middle
+GSL_G.2_main_1,35353,explore,but aint leavin till wednesday so,492825,451102,13.620916666666700,middle
+GSL_G.2_main_1,35354,explore,yeah always nice to see ppl again,451102,492825,13.708783333333300,middle
+GSL_G.2_main_1,35355,explore,That's so exciting!!!,167407,255359,13.718466666666700,middle
+GSL_G.2_main_1,35356,explore,yeah I find it really interesting so hopefully I make it through,884325,451102,13.798833333333300,middle
+GSL_G.2_main_1,35357,explore,ah thats rough,451102,492825,13.821366666666700,middle
+GSL_G.2_main_1,35358,explore,I am out of state. Are you?,167407,255359,13.856,middle
+GSL_G.2_main_1,35359,explore,yeaah im flying back to chicago lol,492825,167407,13.859883333333300,middle
+GSL_G.2_main_1,35360,explore,2nd year,884325,269224,13.89765,middle
+GSL_G.2_main_1,35361,explore,Got any fun Friday night plans?,269224,307264,13.905466666666700,middle
+GSL_G.2_main_1,35362,explore,yea makes sense i know what you mean freedom has never fekt si great,660772,492825,13.9496,middle
+GSL_G.2_main_1,35363,explore,"it was in Columbus, OH! his wife's family is from there, so we all drove up",942298,255359,14.0092,middle
+GSL_G.2_main_1,35364,explore,got any fun plans back home?,492825,167407,14.010216666666700,middle
+GSL_G.2_main_1,35365,explore,im still tryna find a ride home tuesday haha,451102,492825,14.100216666666700,middle
+GSL_G.2_main_1,35366,explore,What's your major?,269224,884325,14.208083333333300,middle
+GSL_G.2_main_1,35367,explore,I mean most professors are canceling class bc they know no one's gonna show up sooo this should be a sign to just cancel all classes,981471,492825,14.225816666666700,middle
+GSL_G.2_main_1,35368,explore,Def go to rockefeller,307264,660772,14.258783333333300,middle
+GSL_G.2_main_1,35369,explore,I have always wanted to go to Egypt or Morocco! hbu?,255359,942298,14.261483333333300,middle
+GSL_G.2_main_1,35370,explore,hii,981471,167407,14.315833333333300,middle
+GSL_G.2_main_1,35371,explore,you got it lol,451102,884325,14.393716666666700,middle
+GSL_G.2_main_1,35372,explore,ooo banana pudding is a nice choice so good,492825,269224,14.549466666666700,middle
+GSL_G.2_main_1,35373,explore,oh yeah i need it lmao,451102,167407,14.613283333333300,middle
+GSL_G.2_main_1,35374,explore,I also went once when I was super young and only for a day but I'm dying to visit turkey!,255359,942298,14.6188,middle
+GSL_G.2_main_1,35375,explore,"you should go!! I'm sure its all decorated, and you'd get to see the parade",942298,660772,14.640216666666700,middle
+GSL_G.2_main_1,35376,explore,id love to go to NY,942298,660772,14.700916666666700,middle
+GSL_G.2_main_1,35377,explore,Do you run or do dance for UVA? or just club?,269224,942298,14.739783333333300,middle
+GSL_G.2_main_1,35378,explore,yes samee I'm from miami fl,255359,167407,14.888383333333300,middle
+GSL_G.2_main_1,35379,explore,You from NOVA/SoVa then?,492825,451102,14.922916666666700,middle
+GSL_G.2_main_1,35380,explore,bio wbu,884325,269224,14.95985,middle
+GSL_G.2_main_1,35381,explore,so pretty far lol hbu?,255359,167407,15.019283333333300,middle
+GSL_G.2_main_1,35382,explore,real,167407,451102,15.034016666666700,middle
+GSL_G.2_main_1,35383,explore,omg so true I would just be quite and nod to whatever other people are saying lol,307264,981471,15.06605,middle
+GSL_G.2_main_1,35384,explore,That's what I'm saying,269224,492825,15.083966666666700,middle
+GSL_G.2_main_1,35385,explore,I love that stuff,269224,492825,15.150783333333300,middle
+GSL_G.2_main_1,35386,explore,Woah that is far,167407,255359,15.184216666666700,middle
+GSL_G.2_main_1,35387,explore,Im from chicago so i be flyin back lol,492825,451102,15.207716666666700,middle
+GSL_G.2_main_1,35388,explore,no i know what you mean going up these hills and wearing a sweater sweats everything away,660772,884325,15.22345,middle
+GSL_G.2_main_1,35389,explore,Im from NY,167407,255359,15.230883333333300,middle
+GSL_G.2_main_1,35390,explore,"this is so basic, but I really want to go to Greece lmao. I love the beach, and their architectures so pretty",942298,255359,15.372766666666700,middle
+GSL_G.2_main_1,35391,explore,Pre Comm,269224,884325,15.48175,middle
+GSL_G.2_main_1,35392,explore,How do you like it here compared to miami?,167407,255359,15.501916666666700,middle
+GSL_G.2_main_1,35393,explore,Its about all the pathogens that cause infectious disease,492825,884325,15.631916666666700,middle
+GSL_G.2_main_1,35394,explore,cool! my brother lived in nyc for a while so I love it there,255359,167407,15.754116666666700,middle
+GSL_G.2_main_1,35395,explore,We just color coloring books its pretty hard,269224,884325,15.81495,middle
+GSL_G.2_main_1,35396,explore,I find it fun but its really gross to learn about haha,492825,884325,15.855733333333300,middle
+GSL_G.2_main_1,35397,explore,"It's been rough, but also fun",167407,307264,15.90465,middle
+GSL_G.2_main_1,35398,explore,def very different but so far I'm loving uva,255359,167407,15.9338,middle
+GSL_G.2_main_1,35399,explore,I have to workout and do a quiz but afterwards I am planning to bake with friends and get wine drunk,307264,269224,15.939583333333300,middle
+GSL_G.2_main_1,35400,explore,ooooo okay ill keep that in mind,660772,307264,16.053883333333300,middle
+GSL_G.2_main_1,35401,explore,"neither haha, im so busy with school, but I love the treadmill lol. im thinking about paying for a class membership at the AFC to do some of the ballet barre classes they do",942298,269224,16.076216666666700,middle
+GSL_G.2_main_1,35402,explore,everyone is always so happy here lol,255359,167407,16.0921,middle
+GSL_G.2_main_1,35403,explore,How has your's been?,167407,307264,16.1086,middle
+GSL_G.2_main_1,35404,explore,Wby,307264,269224,16.128416666666700,middle
+GSL_G.2_main_1,35405,explore,Yeah lol I've noticed that too,167407,255359,16.475433333333300,middle
+GSL_G.2_main_1,35406,explore,More like Piggers! :),269224,451102,16.495416666666700,middle
+GSL_G.2_main_1,35407,explore,i feel like itll be extremely cold compared to here tho',660772,307264,16.50935,middle
+GSL_G.2_main_1,35408,explore,How are you doing?,167407,981471,16.639433333333300,middle
+GSL_G.2_main_1,35409,explore,yeah like right outside of NOVA,451102,492825,16.655833333333300,middle
+GSL_G.2_main_1,35410,explore,"Yeah honestly, free us we been here too long",492825,981471,16.6918,middle
+GSL_G.2_main_1,35411,explore,big bears fan are we?,451102,492825,16.799833333333300,middle
+GSL_G.2_main_1,35412,explore,yes! that's also on my list fs. I went to croatia a couple summers ago and it was probably one of the best weeks of my life lol so pretty over there,255359,942298,16.937383333333300,middle
+GSL_G.2_main_1,35413,explore,only cuz they my home,492825,451102,17.022,middle
+GSL_G.2_main_1,35414,explore,"yea its just so crowded, have you been to NY?",660772,942298,17.025133333333300,middle
+GSL_G.2_main_1,35415,explore,they suck tho,492825,451102,17.08925,middle
+GSL_G.2_main_1,35416,explore,"Im the same way lol. im in my current class because it's a pre req for the major, but I really want to take abnormal psych",942298,307264,17.097583333333300,middle
+GSL_G.2_main_1,35417,explore,OH HAHA CUZ IM A PIG,451102,269224,17.19365,middle
+GSL_G.2_main_1,35418,explore,Woah Chicago's so far,167407,492825,17.21815,middle
+GSL_G.2_main_1,35419,explore,Same this semester has definitely been a lot of work but I love the classes I am taking. I am taking Comm law which is by far the best class I have taken,307264,167407,17.261883333333300,middle
+GSL_G.2_main_1,35420,explore,rep orange and blue still tho at heart and at UVA lol,492825,451102,17.3562,middle
+GSL_G.2_main_1,35421,explore,ooo okay! Im pre med!,942298,884325,17.375666666666700,middle
+GSL_G.2_main_1,35422,explore,good hows the semester been so far?,660772,981471,17.394133333333300,middle
+GSL_G.2_main_1,35423,explore,That's cool! I usually work out and swim there,269224,942298,17.524933333333300,middle
+GSL_G.2_main_1,35424,explore,aww nice!,255359,884325,17.55003333333330,middle
+GSL_G.2_main_1,35425,explore,I'm planning on just hanging out with friends and family and sleeping a lot.,167407,492825,17.614916666666700,middle
+GSL_G.2_main_1,35426,explore,"haha, I don't think this is saying to much but I did an study like that and it was SO AWKWARD",981471,307264,17.67685,middle
+GSL_G.2_main_1,35427,explore,yesss,492825,269224,17.704866666666700,middle
+GSL_G.2_main_1,35428,explore,you have any plans for break after?,492825,269224,17.800333333333300,middle
+GSL_G.2_main_1,35429,explore,"once when I was 9, so I dont remember a lot, but id love to go back and live my gossip girl dreams lol",942298,660772,17.804833333333300,middle
+GSL_G.2_main_1,35430,explore,good hows school been so far?,660772,451102,17.823233333333300,middle
+GSL_G.2_main_1,35431,explore,what are you planning to major in?,307264,942298,17.86545,middle
+GSL_G.2_main_1,35432,explore,i respect it im a washington fan for all sports,451102,492825,17.958233333333300,middle
+GSL_G.2_main_1,35433,explore,That's so interesting,167407,307264,17.981866666666700,middle
+GSL_G.2_main_1,35434,explore,yes we love sleep i needa do that more,492825,167407,18.0591,middle
+GSL_G.2_main_1,35435,explore,nfl is not going too well,451102,492825,18.126766666666700,middle
+GSL_G.2_main_1,35436,explore,behavioral neuroscience! hbu?,942298,307264,18.141016666666700,middle
+GSL_G.2_main_1,35437,explore,"So bad, im rethinking all my life choices at this point lol",981471,660772,18.17,middle
+GSL_G.2_main_1,35438,explore,Just going home to spend time with family and friends,269224,492825,18.20243333333330,middle
+GSL_G.2_main_1,35439,explore,how about u,981471,660772,18.224966666666700,middle
+GSL_G.2_main_1,35440,explore,How about you?,269224,492825,18.26265,middle
+GSL_G.2_main_1,35441,explore,HAHA,167407,884325,18.28595,middle
+GSL_G.2_main_1,35442,explore,I love chicago! I am from miami,255359,492825,18.298583333333300,middle
+GSL_G.2_main_1,35443,explore,yeah I came here for the nursing program since chicago schools werent as good for that,492825,167407,18.348033333333300,middle
+GSL_G.2_main_1,35444,explore,its good until my parents see my grades lmao,451102,660772,18.37045,middle
+GSL_G.2_main_1,35445,explore,"so relaxing. I love being able to drive my car and walk around a house instead of a dorm building lmao, and ive missed my pets",942298,492825,18.651616666666700,middle
+GSL_G.2_main_1,35446,explore,yeahh its been on a down turn for some years,492825,451102,18.671283333333300,middle
+GSL_G.2_main_1,35447,explore,hahaha,981471,492825,18.74045,middle
+GSL_G.2_main_1,35448,explore,lol I am sure you have had a similar experience adjusting to Charlottesville from a city,255359,492825,18.795266666666700,middle
+GSL_G.2_main_1,35449,explore,NO WAY I would have left even before the study wouldve started lol,307264,981471,18.8111,middle
+GSL_G.2_main_1,35450,explore,whats your favorite sport n team?,492825,451102,18.86435,middle
+GSL_G.2_main_1,35451,explore,no bc why do we only get 3 days off,981471,492825,18.90195,middle
+GSL_G.2_main_1,35452,explore,Yeah the nursing program is great here I heard. I have a friend who's in it,167407,492825,19.154766666666700,middle
+GSL_G.2_main_1,35453,explore,SAME but honestly my bank account not supporting my dreams that much,660772,942298,19.160616666666700,middle
+GSL_G.2_main_1,35454,explore,and the other two are just the weekend,981471,492825,19.18445,middle
+GSL_G.2_main_1,35455,explore,"it looks gorgeous. once im out of school and stable, I want to travel the world haha",942298,255359,19.2109,middle
+GSL_G.2_main_1,35456,explore,That sounds like so much fun! The wine part obviously,269224,307264,19.225216666666700,middle
+GSL_G.2_main_1,35457,explore,I love it here though everyone is always so happy and the town is so cute,255359,492825,19.271583333333300,middle
+GSL_G.2_main_1,35458,explore,i believe in your gossip girl dreams tho,660772,942298,19.309066666666700,middle
+GSL_G.2_main_1,35459,explore,no fr like you think I can get over my thankgiving food coma that quick?,492825,981471,19.336016666666700,middle
+GSL_G.2_main_1,35460,explore,I got a Friendsgiving tonight so I'm looking forward to that,269224,307264,19.54935,middle
+GSL_G.2_main_1,35461,explore,"SO real. id love to travel, but flights are crazy",942298,660772,19.57,middle
+GSL_G.2_main_1,35462,explore,Do you have plans for  break?,167407,269224,19.60785,middle
+GSL_G.2_main_1,35463,explore,Not really! the temp is basically the same it's just that you get less sun,307264,660772,19.62405,middle
+GSL_G.2_main_1,35464,explore,i needa spend all my money and eat and thats a weeks long journey,492825,981471,19.647633333333300,middle
+GSL_G.2_main_1,35465,explore,were rebuilding *cries*,451102,492825,19.780916666666700,middle
+GSL_G.2_main_1,35466,explore,Just going home to spend time with friends and family,269224,167407,19.834816666666700,middle
+GSL_G.2_main_1,35467,explore,oo what pets,492825,942298,19.864983333333300,middle
+GSL_G.2_main_1,35468,explore,XD ummmmm you still got finals,660772,451102,19.8959,middle
+GSL_G.2_main_1,35469,explore,How about you?,269224,167407,19.909966666666700,middle
+GSL_G.2_main_1,35470,explore,I miss my cat so much lol,492825,942298,19.9761,middle
+GSL_G.2_main_1,35471,explore,yes same! def want to find a job that is flexible enough. I'm also thinking of studying abroad sometime,255359,942298,20.020883333333300,late
+GSL_G.2_main_1,35472,explore,probably the nationals bc when they won the world series my fam and i went to a few of those games,451102,492825,20.138266666666700,late
+GSL_G.2_main_1,35473,explore,I think Leo is still fitting for an orange cat,167407,660772,20.220516666666700,late
+GSL_G.2_main_1,35474,explore,no yea and college isnt helping at all,660772,942298,20.282066666666700,late
+GSL_G.2_main_1,35475,explore,but yeah being home must be so nice after so long,492825,942298,20.346616666666700,late
+GSL_G.2_main_1,35476,explore,pre comm! probs double concentrate in finance and data science or finance and minor in CS,307264,942298,20.3487,late
+GSL_G.2_main_1,35477,explore,yeah thats the problem lmao,451102,660772,20.3786,late
+GSL_G.2_main_1,35478,explore,it sounds interesting tho,884325,492825,20.4053,late
+GSL_G.2_main_1,35479,explore,What's up!,269224,255359,20.493516666666700,late
+GSL_G.2_main_1,35480,explore,I might also just be pre law,307264,942298,20.5676,late
+GSL_G.2_main_1,35481,explore,still trying to figure that out tho,307264,942298,20.71585,late
+GSL_G.2_main_1,35482,explore,ohh thats sick asf nice,492825,451102,20.767566666666700,late
+GSL_G.2_main_1,35483,explore,it was too late to leave but never again. The person I was talking to was so quite and I just kept asking questions bc I didn't know what else to do lol,981471,307264,20.7757,late
+GSL_G.2_main_1,35484,explore,yeah it's awful show up to class freezing and leave sweating,884325,660772,20.801816666666700,late
+GSL_G.2_main_1,35485,explore,"honestly same, not excited for physics next year at all",660772,981471,20.8127,late
+GSL_G.2_main_1,35486,explore,What's up!,269224,660772,20.86875,late
+GSL_G.2_main_1,35487,explore,"cool, what do you wanna go into",884325,942298,21.01315,late
+GSL_G.2_main_1,35488,explore,but rethinking as in rethinking your major or just school in general?,660772,981471,21.0555,late
+GSL_G.2_main_1,35489,explore,hi! how are you?,255359,269224,21.1713,late
+GSL_G.2_main_1,35490,explore,gotta make it through finals,884325,451102,21.277733333333300,late
+GSL_G.2_main_1,35491,explore,Who's been your fav prof so far or like which class do you like the best,307264,167407,21.3386,late
+GSL_G.2_main_1,35492,explore,definitely not lmao. im so excited for a home cooked meal instead of dining hall food and burrito theory,942298,660772,21.3556,late
+GSL_G.2_main_1,35493,explore,"I'm doing good, hbu?",269224,255359,21.4295,late
+GSL_G.2_main_1,35494,explore,"I used to have fish, but they all died (not because I neglected them though lol)",167407,660772,21.438933333333300,late
+GSL_G.2_main_1,35495,explore,these midterms are brutal,884325,167407,21.47608333333330,late
+GSL_G.2_main_1,35496,explore,im the same tho haha,451102,884325,21.476416666666700,late
+GSL_G.2_main_1,35497,explore,omg that's so fun,307264,269224,21.57245,late
+GSL_G.2_main_1,35498,explore,is it me or have classes been ramping the heater like itll be 100 degrees in a room,660772,884325,21.586883333333300,late
+GSL_G.2_main_1,35499,explore,I was a big hockey junky for a while w the Blackhawks but Chicago teams are so inconistent haha,492825,451102,21.61935,late
+GSL_G.2_main_1,35500,explore,sounds extreme hard,884325,269224,21.621083333333300,late
+GSL_G.2_main_1,35501,explore,Got any fun Friday night plans?,269224,255359,21.63115,late
+GSL_G.2_main_1,35502,explore,"good, how are you?",981471,167407,21.635616666666700,late
+GSL_G.2_main_1,35503,explore,im thinking psychiatry or obstetrics and gynecology!,942298,884325,21.64891666666670,late
+GSL_G.2_main_1,35504,explore,hey! how are you,660772,269224,21.763083333333300,late
+GSL_G.2_main_1,35505,explore,It is bro,269224,884325,21.813783333333300,late
+GSL_G.2_main_1,35506,explore,I have 1 dog and 3 cats!,942298,492825,21.85455,late
+GSL_G.2_main_1,35507,explore,is it like a potluck thingy or are you guys going out?,307264,269224,21.884533333333300,late
+GSL_G.2_main_1,35508,explore,hbu,942298,492825,21.899716666666700,late
+GSL_G.2_main_1,35509,explore,hello hows it going!,660772,255359,21.95365,late
+GSL_G.2_main_1,35510,explore,I don't know if I can do it anymore might have to switch to Bio,269224,884325,21.99905,late
+GSL_G.2_main_1,35511,explore,nicee lol yeah its a smaller program so everyone in it knows each other,492825,167407,22.008333333333300,late
+GSL_G.2_main_1,35512,explore,good thank you! my flight home is sadly super early tomorrow so I think I am going to stay in tn. Hbu?,255359,269224,22.12375,late
+GSL_G.2_main_1,35513,explore,My favorite professor I'd say is either Kittlesen (for bio) or Willingham (who teaches intro to cog),167407,307264,22.149516666666700,late
+GSL_G.2_main_1,35514,explore,Potluck,269224,307264,22.171833333333300,late
+GSL_G.2_main_1,35515,explore,Do you have a favorite professor?,167407,307264,22.298883333333300,late
+GSL_G.2_main_1,35516,explore,"I'm doing good, hbu?",269224,660772,22.373283333333300,late
+GSL_G.2_main_1,35517,explore,wow that's interesting. you have plenty of time though,942298,307264,22.43915,late
+GSL_G.2_main_1,35518,explore,Not the other participant not engaging,307264,981471,22.448516666666700,late
+GSL_G.2_main_1,35519,explore,hi! good and you?,255359,660772,22.453716666666700,late
+GSL_G.2_main_1,35520,explore,Got any fun Friday night plans?,269224,660772,22.4866,late
+GSL_G.2_main_1,35521,explore,me too haha,492825,269224,22.503616666666700,late
+GSL_G.2_main_1,35522,explore,ohh no physics is the worst class I've taken in my entire life lol (not trying to scare you),981471,660772,22.597733333333300,late
+GSL_G.2_main_1,35523,explore,"I'm doing well, just tired though",167407,981471,22.65585,late
+GSL_G.2_main_1,35524,explore,ok yay,660772,307264,22.7173,late
+GSL_G.2_main_1,35525,explore,friendsgiving back at home plus seeing my pets,492825,269224,22.722166666666700,late
+GSL_G.2_main_1,35526,explore,any place you want to visit ?,660772,307264,22.859716666666700,late
+GSL_G.2_main_1,35527,explore,yeah it def is,492825,884325,22.896116666666700,late
+GSL_G.2_main_1,35528,explore,"I would love to do that also, but I know id miss my friends and family so much",942298,255359,22.907316666666700,late
+GSL_G.2_main_1,35529,explore,Just rethinking my major,981471,660772,22.951866666666700,late
+GSL_G.2_main_1,35530,explore,hi! how are u?,255359,451102,22.960266666666700,late
+GSL_G.2_main_1,35531,explore,"At least you get to go home pretty early, I'm stuck here until Sunday",269224,255359,22.9986,late
+GSL_G.2_main_1,35532,explore,i hate when people do that like help me out here i cant be the only one carrying the convo,307264,981471,23.014766666666700,late
+GSL_G.2_main_1,35533,explore,I agree...,167407,884325,23.086216666666700,late
+GSL_G.2_main_1,35534,explore,I love the afc haha. such good vibes there,942298,269224,23.197283333333300,late
+GSL_G.2_main_1,35535,explore,I got a Friendsgiving tonight so I'm looking forward to that,269224,255359,23.232283333333300,late
+GSL_G.2_main_1,35536,explore,"good honestly just packing my clothes to leave tmrw, hbu?",660772,269224,23.263666666666700,late
+GSL_G.2_main_1,35537,explore,like in DC or just traveling in general?,307264,660772,23.4293,late
+GSL_G.2_main_1,35538,explore,Me too,167407,269224,23.45853333333330,late
+GSL_G.2_main_1,35539,explore,I have one cat but I used to have a snake and chameleon,492825,942298,23.540533333333300,late
+GSL_G.2_main_1,35540,explore,Planning on getting anotehr cat soon tho hehe,492825,942298,23.681633333333300,late
+GSL_G.2_main_1,35541,explore,ooo okay,942298,492825,23.701833333333300,late
+GSL_G.2_main_1,35542,explore,"lol thank you, its okay i also had fish and they also passed",660772,167407,23.781883333333300,late
+GSL_G.2_main_1,35543,explore,I'm also hoping to catch up on sleep,167407,269224,23.863416666666700,late
+GSL_G.2_main_1,35544,explore,"im also good, cant wait for break to start ahh",492825,307264,24.054116666666700,late
+GSL_G.2_main_1,35545,explore,i wasnt aware that fish can get extremely bloated and die,660772,167407,24.054966666666700,late
+GSL_G.2_main_1,35546,explore,chillin wby,451102,255359,24.11775,late
+GSL_G.2_main_1,35547,explore,got any fun plans for it?,492825,307264,24.141883333333300,late
+GSL_G.2_main_1,35548,explore,yes! that's probably the main reason I'm not dead set on it yet. My super close friend is studying in sydney next semester and I already miss him and he hasn't even left yet lol,255359,942298,24.168216666666700,late
+GSL_G.2_main_1,35549,explore,How does that happen?,167407,660772,24.216633333333300,late
+GSL_G.2_main_1,35550,explore,"we have a neighborhood cat that likes to hangout around our house, and it was on the roof outside my window this morning LMAO",942298,492825,24.264833333333300,late
+GSL_G.2_main_1,35551,explore,yeah thats the good thing about pre law you dont really have any pre reqs so you can major in anything,307264,942298,24.29531666666670,late
+GSL_G.2_main_1,35552,explore,same same,255359,451102,24.31983333333330,late
+GSL_G.2_main_1,35553,explore,Do you have any fun thanksgiving plans?,255359,451102,24.451866666666700,late
+GSL_G.2_main_1,35554,explore,"yeah, being able to just go whereever and not tell anyone every detail lol",492825,660772,24.506683333333300,late
+GSL_G.2_main_1,35555,explore,"thats assuring lolll, but i get what you mean. dw youll find your calling",660772,981471,24.5643,late
+GSL_G.2_main_1,35556,explore,I dont know any of them lol,307264,167407,24.636483333333300,late
+GSL_G.2_main_1,35557,explore,hi! how are u?,255359,981471,24.6811,late
+GSL_G.2_main_1,35558,explore,just going home to see the fam wby,451102,255359,24.702483333333300,late
+GSL_G.2_main_1,35559,explore,hows it been for you?,492825,660772,24.76585,late
+GSL_G.2_main_1,35560,explore,this year in general so far,492825,660772,24.876583333333300,late
+GSL_G.2_main_1,35561,explore,sometimes i wish we were born with a major set in stone idk im just indecisive,660772,981471,24.95255,late
+GSL_G.2_main_1,35562,explore,mine would be Marc Santugini and Sherri Moore,307264,167407,24.980866666666700,late
+GSL_G.2_main_1,35563,explore,"do it, bio is so easy I barely ever do work",884325,269224,25.146216666666700,late
+GSL_G.2_main_1,35564,explore,awww kitty  poppin in to say hello,492825,942298,25.17365,late
+GSL_G.2_main_1,35565,explore,yes same! I haven't been home since august and my older brother is getting married this week so i'm super excited,255359,451102,25.18935,late
+GSL_G.2_main_1,35566,explore,"yeahh, I at least need 2 weeks to recover from the trauma I've been going thru for the past few months lol",981471,492825,25.211316666666700,late
+GSL_G.2_main_1,35567,explore,"that's so real. my boyfriend has been in Nashville since June, and ive seen him some, but its definitely a strange feeling to be so far away from people you used to see daily",942298,255359,25.226966666666700,late
+GSL_G.2_main_1,35568,explore,fun! what are you taking?,307264,269224,25.2422,late
+GSL_G.2_main_1,35569,explore,"good excited for break, you got any plans for break?",660772,255359,25.3037,late
+GSL_G.2_main_1,35570,explore,ooouu sounds interesting,884325,942298,25.411683333333300,late
+GSL_G.2_main_1,35571,explore,Do you have instagram? We should hit a workout sometime,269224,942298,25.502433333333300,late
+GSL_G.2_main_1,35572,explore,he's so big. im not even sure how he got up there,942298,492825,25.57496666666670,late
+GSL_G.2_main_1,35573,explore,we get really big racoons that steal from our bird feeders that sit on our porch chairs,492825,942298,25.644333333333300,late
+GSL_G.2_main_1,35574,explore,banana pudding :),269224,307264,25.671833333333300,late
+GSL_G.2_main_1,35575,explore,yes truee I think that's prob the hardest part about college so far,255359,942298,25.75636666666670,late
+GSL_G.2_main_1,35576,explore,so real i had some spoiled milk from ohill and i just cant go back,660772,942298,25.805083333333300,late
+GSL_G.2_main_1,35577,explore,cats are magical loll,492825,942298,25.843316666666700,late
+GSL_G.2_main_1,35578,explore,do you volunteer or shadow or anything?,942298,884325,25.93435,late
+GSL_G.2_main_1,35579,explore,Same fr,269224,167407,25.9666,late
+GSL_G.2_main_1,35580,explore,"YESS, I was like :/ really? you wanna keep it awkward",981471,307264,26.11185,late
+GSL_G.2_main_1,35581,explore,The universal UVA trauma is so real,492825,981471,26.196933333333300,late
+GSL_G.2_main_1,35582,explore,yes! I am going home for the first time since august and my older brother is getting married so i'm very excited,255359,660772,26.271583333333300,late
+GSL_G.2_main_1,35583,explore,"my roomie got food poisoning from a cold burger there, so we're traumatized",942298,660772,26.2924,late
+GSL_G.2_main_1,35584,explore,i have no idea i think its the type of food they eat too,660772,167407,26.2927,late
+GSL_G.2_main_1,35585,explore,yes! it's awful. can't even feel a slight breeze without someone blasting heat,884325,660772,26.2995,late
+GSL_G.2_main_1,35586,explore,hbu?,255359,660772,26.307383333333300,late
+GSL_G.2_main_1,35587,explore,same! I am going to DC with friends but also need to get started on some applications so would be doing that,307264,492825,26.3427,late
+GSL_G.2_main_1,35588,explore,Thats awesome!,269224,492825,26.389266666666700,late
+GSL_G.2_main_1,35589,explore,wby?,307264,492825,26.426016666666700,late
+GSL_G.2_main_1,35590,explore,oh i mean hey you still got 3 years to bring it up,660772,451102,26.63195,late
+GSL_G.2_main_1,35591,explore,agree. have you been home at all?,942298,255359,26.657166666666700,late
+GSL_G.2_main_1,35592,explore,Ohh,167407,660772,26.696933333333300,late
+GSL_G.2_main_1,35593,explore,yeah I tutor kids through Madison house and shadow at an office every monday,884325,942298,26.794216666666700,late
+GSL_G.2_main_1,35594,explore,no............,660772,942298,26.7982,late
+GSL_G.2_main_1,35595,explore,That sounds awesome,269224,884325,26.798966666666700,late
+GSL_G.2_main_1,35596,explore,"I love cats, and omg haha",942298,492825,26.831783333333300,late
+GSL_G.2_main_1,35597,explore,I'm switching right now,269224,884325,26.8958,late
+GSL_G.2_main_1,35598,explore,"ooh DC is fun, I am going back to Chicago to see my family and cat lol",492825,307264,26.936383333333300,late
+GSL_G.2_main_1,35599,explore,aww yay! my friends and I wanted to do one but we're all leaving so soon that it's hard to coordinate,255359,269224,26.976366666666700,late
+GSL_G.2_main_1,35600,explore,"ME TOO, like why do we have such a short time to pick a major :(",981471,660772,26.98445,late
+GSL_G.2_main_1,35601,explore,glad to see it,884325,269224,27.038866666666700,late
+GSL_G.2_main_1,35602,explore,I wouldve just stared at the person and forced them to speak lol,307264,981471,27.045533333333300,late
+GSL_G.2_main_1,35603,explore,that sounds super fun though,255359,269224,27.0684,late
+GSL_G.2_main_1,35604,explore,What kind of cat is leo?,167407,660772,27.24925,late
+GSL_G.2_main_1,35605,explore,that's exciting! I'm volunteering through Madison house at the postpartum clinic in the hospital,942298,884325,27.2829,late
+GSL_G.2_main_1,35606,explore,I haven't yet so i'm so excited,255359,942298,27.29415,late
+GSL_G.2_main_1,35607,explore,yea no thanks im just gonna pack food or cook in my dorm *that follows the guidelines*,660772,942298,27.320233333333300,late
+GSL_G.2_main_1,35608,explore,maybe do a lil friendsgiving back home too,492825,307264,27.334533333333300,late
+GSL_G.2_main_1,35609,explore,and ofc black friday shopping,492825,307264,27.48605,late
+GSL_G.2_main_1,35610,explore,how has that been,884325,942298,27.53865,late
+GSL_G.2_main_1,35611,explore,oh my gosh yes,660772,884325,27.588583333333300,late
+GSL_G.2_main_1,35612,explore,luckily my parents came up for parents weekend so I was able to see them :),255359,942298,27.599833333333300,late
+GSL_G.2_main_1,35613,explore,do you enjoy it,884325,942298,27.607316666666700,late
+GSL_G.2_main_1,35614,explore,"aww thats nice! wait, are you a cat person or a dog person?",307264,492825,27.620433333333300,late
+GSL_G.2_main_1,35615,explore,Ya I'm really excited,269224,255359,27.629383333333300,late
+GSL_G.2_main_1,35616,explore,I love Newcomb LMAO,942298,660772,27.647733333333300,late
+GSL_G.2_main_1,35617,explore,Do you have any plans for break?,167407,884325,27.72025,late
+GSL_G.2_main_1,35618,explore,glad I found someone who can relate,884325,660772,27.780616666666700,late
+GSL_G.2_main_1,35619,explore,cant forget black friday ofc,307264,492825,27.810666666666700,late
+GSL_G.2_main_1,35620,explore,"sameee, ready for the break",981471,167407,27.841183333333300,late
+GSL_G.2_main_1,35621,explore,"ive been home a lot lol, but its still so nice",942298,255359,27.9794,late
+GSL_G.2_main_1,35622,explore,"just going home and relaxing, seeing my family",884325,167407,27.999683333333300,late
+GSL_G.2_main_1,35623,explore,wbu,884325,167407,28.013166666666700,late
+GSL_G.2_main_1,35624,explore,Are you in a frat?,269224,884325,28.044316666666700,late
+GSL_G.2_main_1,35625,explore,"same, well it was nice to meet you i hope you have a good rest of ur semester",660772,884325,28.053983333333300,late
+GSL_G.2_main_1,35626,explore,and I bet that was fun,942298,255359,28.05595,late
+GSL_G.2_main_1,35627,explore,aw thats awesome actually congrats to him,451102,255359,28.10105,late
+GSL_G.2_main_1,35628,explore,omg slay love that,307264,269224,28.126466666666700,late
+GSL_G.2_main_1,35629,explore,I love It actually haha,942298,884325,28.18175,late
+GSL_G.2_main_1,35630,explore,"I would say more of a cat person, but i LOVE big dogs",492825,307264,28.184966666666700,late
+GSL_G.2_main_1,35631,explore,yeah it should be a good time! are you guys having like classic thanksgiving food?,255359,269224,28.18635,late
+GSL_G.2_main_1,35632,explore,"Yeah, I feel like it's too short",167407,981471,28.197133333333300,late
+GSL_G.2_main_1,35633,explore,I am hungry now lol,307264,269224,28.23485,late
+GSL_G.2_main_1,35634,explore,like big ol labs and huskys,492825,307264,28.351866666666700,late
+GSL_G.2_main_1,35635,explore,yuppers!,269224,255359,28.3728,late
+GSL_G.2_main_1,35636,explore,nope I wouldn,884325,269224,28.400033333333300,late
+GSL_G.2_main_1,35637,explore,very true very true,451102,660772,28.478833333333300,late
+GSL_G.2_main_1,35638,explore,noo bc tell why the guy wasn't even looking at me when he was talking to me lolll,981471,307264,28.578133333333300,late
+GSL_G.2_main_1,35639,explore,its okay dont stress trust me ask upperclassmen for advice they give it to you real unlike advisors sometimes,660772,981471,28.585716666666700,late
+GSL_G.2_main_1,35640,explore,"I'm also planning on visiting friends and family, and sleeping",167407,884325,28.640666666666700,late
+GSL_G.2_main_1,35641,explore,wouldn't be allowed to join,884325,269224,28.640716666666700,late
+GSL_G.2_main_1,35642,explore,yeah!,492825,269224,28.674866666666700,late
+GSL_G.2_main_1,35643,explore,in general,660772,307264,28.727766666666700,late
+GSL_G.2_main_1,35644,explore,big emphasis on the sleeping lol,884325,167407,28.8373,late
+GSL_G.2_main_1,35645,explore,Hows the school year been for u this  year?,492825,269224,28.846016666666700,late
+GSL_G.2_main_1,35646,explore,very excited for him! She's also the best and I never had sisters growing up so I def lucked out lol,255359,451102,29.021583333333300,late
+GSL_G.2_main_1,35647,explore,oh my gosh congrats to your brother,660772,255359,29.045616666666700,late
+GSL_G.2_main_1,35648,explore,I'm so excited,269224,307264,29.11093333333330,late
+GSL_G.2_main_1,35649,explore,same just going to visit family,660772,255359,29.201283333333300,late
+GSL_G.2_main_1,35650,explore,sounds so good!,255359,269224,29.301266666666700,late
+GSL_G.2_main_1,35651,explore,woah miami nice,492825,255359,29.302333333333300,late
+GSL_G.2_main_1,35652,explore,Same I mean small dogs are cute but big dogs are sooo adorable and fun to play with,307264,492825,29.3523,late
+GSL_G.2_main_1,35653,explore,yeahh,981471,492825,29.36745,late
+GSL_G.2_main_1,35654,explore,Why?,269224,884325,29.468516666666700,late
+GSL_G.2_main_1,35655,explore,yeah the town is cute is the perfect way to put it,492825,255359,29.487616666666700,late
+GSL_G.2_main_1,35656,explore,it sound very cool,884325,942298,29.514483333333300,late
+GSL_G.2_main_1,35657,explore,but i do miss the city haha,492825,255359,29.58565,late
+GSL_G.2_main_1,35658,explore,orange tabby,660772,167407,29.58845,late
+GSL_G.2_main_1,35659,explore,ahahaha noo that's annoying,307264,981471,29.625733333333300,late
+GSL_G.2_main_1,35660,explore,yeah I am sure it's always the best to have a break,255359,942298,29.651166666666700,late
+GSL_G.2_main_1,35661,explore,newcomb on top,660772,942298,29.74355,late
+GSL_G.2_main_1,35662,explore,yeahh and they arent as loud LOL,492825,307264,29.81365,late
+GSL_G.2_main_1,35663,explore,Europe for sure,307264,660772,29.833383333333300,late
+GSL_G.2_main_1,35664,explore,thank you! aww yay thats so fun,255359,660772,29.837,late
